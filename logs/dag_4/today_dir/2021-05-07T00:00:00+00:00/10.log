@@ -1,0 +1,24 @@
+[2021-05-08 20:18:25,335] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.today_dir 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 20:18:25,350] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.today_dir 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 20:18:25,350] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 20:18:25,350] {taskinstance.py:1069} INFO - Starting attempt 10 of 12
+[2021-05-08 20:18:25,350] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 20:18:25,475] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): today_dir> on 2021-05-07T00:00:00+00:00
+[2021-05-08 20:18:25,477] {standard_task_runner.py:52} INFO - Started process 5289 to run task
+[2021-05-08 20:18:25,484] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_4', 'today_dir', '2021-05-07T00:00:00+00:00', '--job-id', '94', '--pool', 'default_pool', '--raw', '--subdir', '/home/navneetsajwan/airflow/dags/dag__4.py', '--cfg-path', '/tmp/tmp7dgm3sxv', '--error-file', '/tmp/tmp94584ysw']
+[2021-05-08 20:18:25,484] {standard_task_runner.py:77} INFO - Job 94: Subtask today_dir
+[2021-05-08 20:18:25,621] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_4.today_dir 2021-05-07T00:00:00+00:00 [running]> on host navneetsajwan-Lenovo-G50-80
+[2021-05-08 20:18:25,659] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=navneet@metaorigins.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dag_4
+AIRFLOW_CTX_TASK_ID=today_dir
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-07T00:00:00+00:00
+[2021-05-08 20:18:25,659] {logging_mixin.py:104} INFO - create directory
+[2021-05-08 20:18:25,660] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-08 20:18:25,666] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=dag_4, task_id=today_dir, execution_date=20210507T000000, start_date=20210508T144825, end_date=20210508T144825
+[2021-05-08 20:18:25,963] {taskinstance.py:1246} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-05-08 20:18:25,974] {local_task_job.py:146} INFO - Task exited with return code 0

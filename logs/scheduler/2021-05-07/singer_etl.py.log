@@ -1,0 +1,412 @@
+[2021-05-08 01:19:18,572] {scheduler_job.py:182} INFO - Started process (PID=452458) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:19:18,574] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:19:18,574] {logging_mixin.py:104} INFO - [2021-05-08 01:19:18,574] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:19:18,707] {logging_mixin.py:104} INFO - [2021-05-08 01:19:18,674] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:19:18,712] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:19:19,589] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.020 seconds
+[2021-05-08 01:20:01,568] {scheduler_job.py:182} INFO - Started process (PID=453071) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:01,583] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:20:01,584] {logging_mixin.py:104} INFO - [2021-05-08 01:20:01,584] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:01,676] {logging_mixin.py:104} INFO - [2021-05-08 01:20:01,674] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:20:01,676] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:01,871] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.320 seconds
+[2021-05-08 01:20:50,438] {scheduler_job.py:182} INFO - Started process (PID=454070) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:50,440] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:20:50,442] {logging_mixin.py:104} INFO - [2021-05-08 01:20:50,441] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:50,458] {logging_mixin.py:104} INFO - [2021-05-08 01:20:50,457] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:20:50,459] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:20:50,662] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.231 seconds
+[2021-05-08 01:21:28,179] {scheduler_job.py:182} INFO - Started process (PID=454638) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:21:28,181] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:21:28,182] {logging_mixin.py:104} INFO - [2021-05-08 01:21:28,182] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:21:28,190] {logging_mixin.py:104} INFO - [2021-05-08 01:21:28,189] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:21:28,190] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:21:28,331] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.155 seconds
+[2021-05-08 01:22:00,682] {scheduler_job.py:182} INFO - Started process (PID=455068) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:00,684] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:22:00,685] {logging_mixin.py:104} INFO - [2021-05-08 01:22:00,685] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:00,693] {logging_mixin.py:104} INFO - [2021-05-08 01:22:00,692] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:22:00,694] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:00,811] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.133 seconds
+[2021-05-08 01:22:42,685] {scheduler_job.py:182} INFO - Started process (PID=455968) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:42,688] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:22:42,689] {logging_mixin.py:104} INFO - [2021-05-08 01:22:42,689] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:43,370] {logging_mixin.py:104} INFO - [2021-05-08 01:22:43,333] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+  File "/home/navneetsajwan/airflow/singer_data/mysql_to_csv.py", line 7, in <module>
+    from schemaDetection import detect_schema,increamenta_state
+  File "/home/navneetsajwan/airflow/singer_data/schemaDetection.py", line 5, in <module>
+    SINGER_DATA = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:22:43,371] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:22:43,458] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.778 seconds
+[2021-05-08 01:23:18,425] {scheduler_job.py:182} INFO - Started process (PID=456474) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:18,428] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:23:18,431] {logging_mixin.py:104} INFO - [2021-05-08 01:23:18,431] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:19,361] {logging_mixin.py:104} INFO - [2021-05-08 01:23:19,359] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+  File "/home/navneetsajwan/airflow/singer_data/mysql_to_csv.py", line 7, in <module>
+    from schemaDetection import detect_schema,increamenta_state
+  File "/home/navneetsajwan/airflow/singer_data/schemaDetection.py", line 5, in <module>
+    SINGER_DATA = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:23:19,361] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:19,449] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.031 seconds
+[2021-05-08 01:23:58,628] {scheduler_job.py:182} INFO - Started process (PID=457063) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:58,630] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:23:58,631] {logging_mixin.py:104} INFO - [2021-05-08 01:23:58,631] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:58,647] {logging_mixin.py:104} INFO - [2021-05-08 01:23:58,645] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 25, in <module>
+    from  mysql_to_csv import tap_mysql_target_csv,today_dir,move_files,detect_schemas,state_file
+ModuleNotFoundError: No module named 'mysql_to_csv'
+[2021-05-08 01:23:58,648] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:23:59,352] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.731 seconds
+[2021-05-08 01:24:37,269] {scheduler_job.py:182} INFO - Started process (PID=457921) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:24:37,270] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:24:37,275] {logging_mixin.py:104} INFO - [2021-05-08 01:24:37,274] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:24:38,114] {logging_mixin.py:104} INFO - [2021-05-08 01:24:38,111] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:24:38,114] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:24:38,276] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.016 seconds
+[2021-05-08 01:25:33,352] {scheduler_job.py:182} INFO - Started process (PID=458862) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:25:33,354] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:25:33,371] {logging_mixin.py:104} INFO - [2021-05-08 01:25:33,371] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:25:35,878] {logging_mixin.py:104} INFO - [2021-05-08 01:25:35,876] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:25:35,879] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:25:35,980] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 2.650 seconds
+[2021-05-08 01:26:13,191] {scheduler_job.py:182} INFO - Started process (PID=459706) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:26:13,208] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:26:13,215] {logging_mixin.py:104} INFO - [2021-05-08 01:26:13,209] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:26:14,635] {logging_mixin.py:104} INFO - [2021-05-08 01:26:14,634] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:26:14,636] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:26:14,727] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.563 seconds
+[2021-05-08 01:27:07,903] {scheduler_job.py:182} INFO - Started process (PID=460584) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:07,910] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:27:07,911] {logging_mixin.py:104} INFO - [2021-05-08 01:27:07,911] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:08,908] {logging_mixin.py:104} INFO - [2021-05-08 01:27:08,906] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:27:08,909] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:09,052] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.162 seconds
+[2021-05-08 01:27:56,771] {scheduler_job.py:182} INFO - Started process (PID=461633) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:56,774] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:27:56,782] {logging_mixin.py:104} INFO - [2021-05-08 01:27:56,782] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:57,667] {logging_mixin.py:104} INFO - [2021-05-08 01:27:57,665] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:27:57,668] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:27:57,779] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.013 seconds
+[2021-05-08 01:28:45,929] {scheduler_job.py:182} INFO - Started process (PID=462325) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:28:45,936] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:28:45,937] {logging_mixin.py:104} INFO - [2021-05-08 01:28:45,937] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:28:48,215] {logging_mixin.py:104} INFO - [2021-05-08 01:28:48,213] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:28:48,221] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:28:48,380] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 2.473 seconds
+[2021-05-08 01:29:47,866] {scheduler_job.py:182} INFO - Started process (PID=463521) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:29:47,870] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:29:47,873] {logging_mixin.py:104} INFO - [2021-05-08 01:29:47,873] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:29:49,955] {logging_mixin.py:104} INFO - [2021-05-08 01:29:49,947] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:29:49,956] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:29:50,238] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 2.401 seconds
+[2021-05-08 01:30:33,898] {scheduler_job.py:182} INFO - Started process (PID=464202) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:30:33,900] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:30:33,901] {logging_mixin.py:104} INFO - [2021-05-08 01:30:33,901] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:30:35,161] {logging_mixin.py:104} INFO - [2021-05-08 01:30:35,157] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:30:35,165] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:30:35,308] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.429 seconds
+[2021-05-08 01:31:31,557] {scheduler_job.py:182} INFO - Started process (PID=465361) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:31:31,564] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:31:31,566] {logging_mixin.py:104} INFO - [2021-05-08 01:31:31,565] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:31:32,693] {logging_mixin.py:104} INFO - [2021-05-08 01:31:32,690] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:31:32,700] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:31:32,824] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.272 seconds
+[2021-05-08 01:32:13,827] {scheduler_job.py:182} INFO - Started process (PID=465990) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:13,829] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:32:13,829] {logging_mixin.py:104} INFO - [2021-05-08 01:32:13,829] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:14,832] {logging_mixin.py:104} INFO - [2021-05-08 01:32:14,830] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:32:14,833] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:14,936] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.114 seconds
+[2021-05-08 01:32:53,003] {scheduler_job.py:182} INFO - Started process (PID=466541) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:53,007] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:32:53,009] {logging_mixin.py:104} INFO - [2021-05-08 01:32:53,009] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:54,507] {logging_mixin.py:104} INFO - [2021-05-08 01:32:54,504] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:32:54,507] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:32:54,641] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.652 seconds
+[2021-05-08 01:33:35,762] {scheduler_job.py:182} INFO - Started process (PID=467470) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:33:35,777] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:33:35,780] {logging_mixin.py:104} INFO - [2021-05-08 01:33:35,780] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:33:36,364] {logging_mixin.py:104} INFO - [2021-05-08 01:33:36,362] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:33:36,364] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:33:36,486] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.729 seconds
+[2021-05-08 01:34:21,647] {scheduler_job.py:182} INFO - Started process (PID=468134) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:34:21,649] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:34:21,650] {logging_mixin.py:104} INFO - [2021-05-08 01:34:21,650] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:34:22,227] {logging_mixin.py:104} INFO - [2021-05-08 01:34:22,225] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:34:22,228] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:34:22,365] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.721 seconds
+[2021-05-08 01:34:58,780] {scheduler_job.py:182} INFO - Started process (PID=468796) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:34:58,783] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:34:58,787] {logging_mixin.py:104} INFO - [2021-05-08 01:34:58,786] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:34:59,954] {logging_mixin.py:104} INFO - [2021-05-08 01:34:59,952] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:34:59,956] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:35:00,412] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.636 seconds
+[2021-05-08 01:35:36,447] {scheduler_job.py:182} INFO - Started process (PID=469562) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:35:36,449] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:35:36,451] {logging_mixin.py:104} INFO - [2021-05-08 01:35:36,450] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:35:37,334] {logging_mixin.py:104} INFO - [2021-05-08 01:35:37,331] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:35:37,334] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:35:37,470] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.026 seconds
+[2021-05-08 01:36:28,863] {scheduler_job.py:182} INFO - Started process (PID=470289) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:36:28,865] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:36:28,866] {logging_mixin.py:104} INFO - [2021-05-08 01:36:28,865] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:36:29,725] {logging_mixin.py:104} INFO - [2021-05-08 01:36:29,721] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:36:29,725] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:36:29,861] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.002 seconds
+[2021-05-08 01:37:12,125] {scheduler_job.py:182} INFO - Started process (PID=471258) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:12,132] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:37:12,139] {logging_mixin.py:104} INFO - [2021-05-08 01:37:12,139] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:13,145] {logging_mixin.py:104} INFO - [2021-05-08 01:37:13,142] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:37:13,146] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:13,287] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 1.172 seconds
+[2021-05-08 01:37:58,498] {scheduler_job.py:182} INFO - Started process (PID=471896) to work on /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:58,499] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/singer_etl.py for tasks to queue
+[2021-05-08 01:37:58,500] {logging_mixin.py:104} INFO - [2021-05-08 01:37:58,500] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:59,066] {logging_mixin.py:104} INFO - [2021-05-08 01:37:59,064] {dagbag.py:308} ERROR - Failed to import: /home/navneetsajwan/airflow/dags/singer_etl.py
+Traceback (most recent call last):
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/dagbag.py", line 305, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/navneetsajwan/airflow/dags/singer_etl.py", line 43, in <module>
+    scriptpath = Variable.get("SINGER_DATA")
+  File "/home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/models/variable.py", line 128, in get
+    raise KeyError(f'Variable {key} does not exist')
+KeyError: 'Variable SINGER_DATA does not exist'
+[2021-05-08 01:37:59,067] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/navneetsajwan/airflow/dags/singer_etl.py
+[2021-05-08 01:37:59,177] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/singer_etl.py took 0.682 seconds

@@ -1,0 +1,83 @@
+{
+  "streams": [
+    {
+      "tap_stream_id": "metaorigin-usercreditaccount",
+      "table_name": "usercreditaccount",
+      "schema": {
+        "properties": {
+          "userid": {
+            "inclusion": "available",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "totalcreditscore": {
+            "inclusion": "available",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "creditid": {
+            "inclusion": "available",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+              "null",
+              "integer"
+            ]
+          }
+        },
+        "type": "object"
+      },
+      "stream": "usercreditaccount",
+      "metadata": [
+        {
+          "breadcrumb": [],
+          "metadata": {
+            "selected-by-default": false,
+            "database-name": "metaorigin",
+            "selected": true,
+            "replication-method": "FULL_TABLE",
+            "row-count": 7,
+            "is-view": false,
+            "table-key-properties": []
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "userid"
+          ],
+          "metadata": {
+            "selected-by-default": true,
+            "sql-datatype": "int"
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "totalcreditscore"
+          ],
+          "metadata": {
+            "selected-by-default": true,
+            "sql-datatype": "int"
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "creditid"
+          ],
+          "metadata": {
+            "selected-by-default": true,
+            "sql-datatype": "int"
+          }
+        }
+      ]
+    }]}

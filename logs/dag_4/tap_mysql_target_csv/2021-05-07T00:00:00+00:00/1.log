@@ -1,0 +1,23 @@
+[2021-05-08 11:10:15,109] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.tap_mysql_target_csv 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 11:10:15,131] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.tap_mysql_target_csv 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 11:10:15,131] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 11:10:15,131] {taskinstance.py:1069} INFO - Starting attempt 1 of 3
+[2021-05-08 11:10:15,131] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 11:10:15,246] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): tap_mysql_target_csv> on 2021-05-07T00:00:00+00:00
+[2021-05-08 11:10:15,248] {standard_task_runner.py:52} INFO - Started process 140235 to run task
+[2021-05-08 11:10:15,254] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_4', 'tap_mysql_target_csv', '2021-05-07T00:00:00+00:00', '--job-id', '28', '--pool', 'default_pool', '--raw', '--subdir', '/home/navneetsajwan/airflow/dags/dag__4.py', '--cfg-path', '/tmp/tmp32tr7sr5', '--error-file', '/tmp/tmpqstpy6dg']
+[2021-05-08 11:10:15,255] {standard_task_runner.py:77} INFO - Job 28: Subtask tap_mysql_target_csv
+[2021-05-08 11:10:15,393] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_4.tap_mysql_target_csv 2021-05-07T00:00:00+00:00 [running]> on host navneetsajwan-Lenovo-G50-80
+[2021-05-08 11:10:15,495] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=navneet@metaorigins.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dag_4
+AIRFLOW_CTX_TASK_ID=tap_mysql_target_csv
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-07T00:00:00+00:00
+[2021-05-08 11:10:16,144] {python.py:118} INFO - Done. Returned value was: 0
+[2021-05-08 11:10:16,350] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=dag_4, task_id=tap_mysql_target_csv, execution_date=20210507T000000, start_date=20210508T054015, end_date=20210508T054016
+[2021-05-08 11:10:16,511] {taskinstance.py:1246} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-08 11:10:16,547] {local_task_job.py:146} INFO - Task exited with return code 0

@@ -1,0 +1,1316 @@
+[2021-05-09 18:01:28,099] {scheduler_job.py:182} INFO - Started process (PID=6562) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:01:28,100] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:01:28,101] {logging_mixin.py:104} INFO - [2021-05-09 18:01:28,100] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:01:28,628] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:01:28,647] {logging_mixin.py:104} INFO - [2021-05-09 18:01:28,646] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:01:28,675] {logging_mixin.py:104} INFO - [2021-05-09 18:01:28,675] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:01:28,763] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.668 seconds
+[2021-05-09 18:02:22,091] {scheduler_job.py:182} INFO - Started process (PID=7081) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:02:22,105] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:02:22,108] {logging_mixin.py:104} INFO - [2021-05-09 18:02:22,107] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:02:23,049] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:02:23,074] {logging_mixin.py:104} INFO - [2021-05-09 18:02:23,074] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:02:23,108] {logging_mixin.py:104} INFO - [2021-05-09 18:02:23,107] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:02:24,135] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 2.050 seconds
+[2021-05-09 18:03:04,429] {scheduler_job.py:182} INFO - Started process (PID=7182) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:04,430] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:03:04,431] {logging_mixin.py:104} INFO - [2021-05-09 18:03:04,431] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:05,061] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:05,075] {logging_mixin.py:104} INFO - [2021-05-09 18:03:05,075] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:03:05,090] {logging_mixin.py:104} INFO - [2021-05-09 18:03:05,090] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:03:06,181] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.756 seconds
+[2021-05-09 18:03:43,805] {scheduler_job.py:182} INFO - Started process (PID=7328) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:43,812] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:03:43,817] {logging_mixin.py:104} INFO - [2021-05-09 18:03:43,817] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:45,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:03:45,342] {logging_mixin.py:104} INFO - [2021-05-09 18:03:45,341] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:03:45,410] {logging_mixin.py:104} INFO - [2021-05-09 18:03:45,410] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:03:45,628] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.831 seconds
+[2021-05-09 18:04:17,510] {scheduler_job.py:182} INFO - Started process (PID=7448) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:17,512] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:04:17,513] {logging_mixin.py:104} INFO - [2021-05-09 18:04:17,513] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:18,146] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:18,158] {logging_mixin.py:104} INFO - [2021-05-09 18:04:18,158] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:04:18,178] {logging_mixin.py:104} INFO - [2021-05-09 18:04:18,178] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:04:18,365] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.861 seconds
+[2021-05-09 18:04:53,506] {scheduler_job.py:182} INFO - Started process (PID=7551) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:53,507] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:04:53,508] {logging_mixin.py:104} INFO - [2021-05-09 18:04:53,508] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:54,109] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:04:54,121] {logging_mixin.py:104} INFO - [2021-05-09 18:04:54,121] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:04:54,135] {logging_mixin.py:104} INFO - [2021-05-09 18:04:54,135] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:04:54,291] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.788 seconds
+[2021-05-09 18:05:28,346] {scheduler_job.py:182} INFO - Started process (PID=7668) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:05:28,347] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:05:28,349] {logging_mixin.py:104} INFO - [2021-05-09 18:05:28,348] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:05:28,898] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:05:28,909] {logging_mixin.py:104} INFO - [2021-05-09 18:05:28,909] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:05:28,925] {logging_mixin.py:104} INFO - [2021-05-09 18:05:28,925] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:05:29,034] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.692 seconds
+[2021-05-09 18:06:04,647] {scheduler_job.py:182} INFO - Started process (PID=7775) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:04,649] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:06:04,650] {logging_mixin.py:104} INFO - [2021-05-09 18:06:04,650] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:05,703] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:05,721] {logging_mixin.py:104} INFO - [2021-05-09 18:06:05,721] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:06:05,745] {logging_mixin.py:104} INFO - [2021-05-09 18:06:05,745] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:06:05,855] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.211 seconds
+[2021-05-09 18:06:44,868] {scheduler_job.py:182} INFO - Started process (PID=7898) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:44,869] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:06:44,870] {logging_mixin.py:104} INFO - [2021-05-09 18:06:44,870] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:45,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:06:45,492] {logging_mixin.py:104} INFO - [2021-05-09 18:06:45,492] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:06:45,507] {logging_mixin.py:104} INFO - [2021-05-09 18:06:45,507] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:06:45,591] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.727 seconds
+[2021-05-09 18:07:22,455] {scheduler_job.py:182} INFO - Started process (PID=8000) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:07:22,463] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:07:22,469] {logging_mixin.py:104} INFO - [2021-05-09 18:07:22,469] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:07:23,478] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:07:23,494] {logging_mixin.py:104} INFO - [2021-05-09 18:07:23,493] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:07:23,515] {logging_mixin.py:104} INFO - [2021-05-09 18:07:23,514] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:07:23,632] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.182 seconds
+[2021-05-09 18:08:01,851] {scheduler_job.py:182} INFO - Started process (PID=8126) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:01,853] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:08:01,854] {logging_mixin.py:104} INFO - [2021-05-09 18:08:01,854] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:02,533] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:02,550] {logging_mixin.py:104} INFO - [2021-05-09 18:08:02,550] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:08:02,573] {logging_mixin.py:104} INFO - [2021-05-09 18:08:02,573] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:08:02,683] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.835 seconds
+[2021-05-09 18:08:41,320] {scheduler_job.py:182} INFO - Started process (PID=8232) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:41,322] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:08:41,323] {logging_mixin.py:104} INFO - [2021-05-09 18:08:41,323] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:42,131] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:08:42,159] {logging_mixin.py:104} INFO - [2021-05-09 18:08:42,159] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:08:42,200] {logging_mixin.py:104} INFO - [2021-05-09 18:08:42,200] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:08:42,322] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.008 seconds
+[2021-05-09 18:09:14,799] {scheduler_job.py:182} INFO - Started process (PID=8322) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:14,801] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:09:14,802] {logging_mixin.py:104} INFO - [2021-05-09 18:09:14,802] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:15,443] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:15,459] {logging_mixin.py:104} INFO - [2021-05-09 18:09:15,459] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:09:15,482] {logging_mixin.py:104} INFO - [2021-05-09 18:09:15,482] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:09:15,612] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.816 seconds
+[2021-05-09 18:09:50,000] {scheduler_job.py:182} INFO - Started process (PID=8416) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:50,002] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:09:50,003] {logging_mixin.py:104} INFO - [2021-05-09 18:09:50,003] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:50,635] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:09:50,649] {logging_mixin.py:104} INFO - [2021-05-09 18:09:50,648] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:09:50,666] {logging_mixin.py:104} INFO - [2021-05-09 18:09:50,666] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:09:50,749] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.754 seconds
+[2021-05-09 18:10:24,157] {scheduler_job.py:182} INFO - Started process (PID=8506) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:10:24,158] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:10:24,159] {logging_mixin.py:104} INFO - [2021-05-09 18:10:24,159] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:10:25,040] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:10:25,052] {logging_mixin.py:104} INFO - [2021-05-09 18:10:25,052] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:10:25,069] {logging_mixin.py:104} INFO - [2021-05-09 18:10:25,069] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:10:25,166] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.014 seconds
+[2021-05-09 18:11:04,754] {scheduler_job.py:182} INFO - Started process (PID=8748) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:04,755] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:11:04,757] {logging_mixin.py:104} INFO - [2021-05-09 18:11:04,757] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:05,419] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:05,431] {logging_mixin.py:104} INFO - [2021-05-09 18:11:05,430] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:11:05,454] {logging_mixin.py:104} INFO - [2021-05-09 18:11:05,454] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:11:05,551] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.801 seconds
+[2021-05-09 18:11:56,709] {scheduler_job.py:182} INFO - Started process (PID=8883) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:56,710] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:11:56,711] {logging_mixin.py:104} INFO - [2021-05-09 18:11:56,711] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:57,369] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:11:57,383] {logging_mixin.py:104} INFO - [2021-05-09 18:11:57,383] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:11:57,400] {logging_mixin.py:104} INFO - [2021-05-09 18:11:57,400] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:11:57,484] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.782 seconds
+[2021-05-09 18:12:32,127] {scheduler_job.py:182} INFO - Started process (PID=9002) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:12:32,128] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:12:32,130] {logging_mixin.py:104} INFO - [2021-05-09 18:12:32,129] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:12:33,351] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:12:33,372] {logging_mixin.py:104} INFO - [2021-05-09 18:12:33,371] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:12:33,396] {logging_mixin.py:104} INFO - [2021-05-09 18:12:33,395] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:12:33,510] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.388 seconds
+[2021-05-09 18:13:08,732] {scheduler_job.py:182} INFO - Started process (PID=9081) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:08,736] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:13:08,738] {logging_mixin.py:104} INFO - [2021-05-09 18:13:08,738] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:09,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:09,525] {logging_mixin.py:104} INFO - [2021-05-09 18:13:09,524] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:13:09,541] {logging_mixin.py:104} INFO - [2021-05-09 18:13:09,540] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:13:09,634] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.912 seconds
+[2021-05-09 18:13:43,684] {scheduler_job.py:182} INFO - Started process (PID=9169) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:43,686] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:13:43,687] {logging_mixin.py:104} INFO - [2021-05-09 18:13:43,686] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:44,462] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:13:44,484] {logging_mixin.py:104} INFO - [2021-05-09 18:13:44,483] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:13:44,508] {logging_mixin.py:104} INFO - [2021-05-09 18:13:44,508] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:13:44,598] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.917 seconds
+[2021-05-09 18:14:19,523] {scheduler_job.py:182} INFO - Started process (PID=9262) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:14:19,525] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:14:19,526] {logging_mixin.py:104} INFO - [2021-05-09 18:14:19,526] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:14:20,702] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:14:20,728] {logging_mixin.py:104} INFO - [2021-05-09 18:14:20,728] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:14:20,770] {logging_mixin.py:104} INFO - [2021-05-09 18:14:20,769] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:14:20,872] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.361 seconds
+[2021-05-09 18:15:01,597] {scheduler_job.py:182} INFO - Started process (PID=9420) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:01,599] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:15:01,600] {logging_mixin.py:104} INFO - [2021-05-09 18:15:01,600] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:02,625] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:02,649] {logging_mixin.py:104} INFO - [2021-05-09 18:15:02,649] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:15:02,673] {logging_mixin.py:104} INFO - [2021-05-09 18:15:02,673] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:15:02,786] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.194 seconds
+[2021-05-09 18:15:40,123] {scheduler_job.py:182} INFO - Started process (PID=9533) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:40,124] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:15:40,125] {logging_mixin.py:104} INFO - [2021-05-09 18:15:40,125] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:40,674] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:15:40,686] {logging_mixin.py:104} INFO - [2021-05-09 18:15:40,686] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:15:40,700] {logging_mixin.py:104} INFO - [2021-05-09 18:15:40,700] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:15:40,790] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.670 seconds
+[2021-05-09 18:16:17,274] {scheduler_job.py:182} INFO - Started process (PID=9624) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:17,279] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:16:17,280] {logging_mixin.py:104} INFO - [2021-05-09 18:16:17,279] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:18,256] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:18,271] {logging_mixin.py:104} INFO - [2021-05-09 18:16:18,271] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:16:18,295] {logging_mixin.py:104} INFO - [2021-05-09 18:16:18,295] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:16:18,393] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.124 seconds
+[2021-05-09 18:16:53,289] {scheduler_job.py:182} INFO - Started process (PID=9714) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:53,292] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:16:53,293] {logging_mixin.py:104} INFO - [2021-05-09 18:16:53,293] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:54,238] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:16:54,258] {logging_mixin.py:104} INFO - [2021-05-09 18:16:54,257] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:16:54,281] {logging_mixin.py:104} INFO - [2021-05-09 18:16:54,281] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:16:54,383] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.104 seconds
+[2021-05-09 18:17:34,330] {scheduler_job.py:182} INFO - Started process (PID=9831) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:17:34,335] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:17:34,336] {logging_mixin.py:104} INFO - [2021-05-09 18:17:34,336] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:17:35,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:17:35,161] {logging_mixin.py:104} INFO - [2021-05-09 18:17:35,161] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:17:35,191] {logging_mixin.py:104} INFO - [2021-05-09 18:17:35,190] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:17:35,336] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.010 seconds
+[2021-05-09 18:18:12,332] {scheduler_job.py:182} INFO - Started process (PID=9925) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:12,334] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:18:12,335] {logging_mixin.py:104} INFO - [2021-05-09 18:18:12,335] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:13,061] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:13,080] {logging_mixin.py:104} INFO - [2021-05-09 18:18:13,079] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:18:13,103] {logging_mixin.py:104} INFO - [2021-05-09 18:18:13,102] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:18:13,217] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.888 seconds
+[2021-05-09 18:18:47,814] {scheduler_job.py:182} INFO - Started process (PID=10004) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:47,816] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:18:47,817] {logging_mixin.py:104} INFO - [2021-05-09 18:18:47,817] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:48,530] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:18:48,543] {logging_mixin.py:104} INFO - [2021-05-09 18:18:48,543] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:18:48,561] {logging_mixin.py:104} INFO - [2021-05-09 18:18:48,561] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:18:48,698] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.888 seconds
+[2021-05-09 18:19:23,125] {scheduler_job.py:182} INFO - Started process (PID=10132) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:23,127] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:19:23,128] {logging_mixin.py:104} INFO - [2021-05-09 18:19:23,128] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:23,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:23,923] {logging_mixin.py:104} INFO - [2021-05-09 18:19:23,922] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:19:23,950] {logging_mixin.py:104} INFO - [2021-05-09 18:19:23,950] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:19:24,079] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.959 seconds
+[2021-05-09 18:19:58,377] {scheduler_job.py:182} INFO - Started process (PID=10225) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:58,382] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:19:58,384] {logging_mixin.py:104} INFO - [2021-05-09 18:19:58,384] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:59,236] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:19:59,257] {logging_mixin.py:104} INFO - [2021-05-09 18:19:59,257] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:19:59,470] {logging_mixin.py:104} INFO - [2021-05-09 18:19:59,470] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:19:59,543] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.176 seconds
+[2021-05-09 18:20:38,768] {scheduler_job.py:182} INFO - Started process (PID=10408) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:20:38,775] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:20:38,777] {logging_mixin.py:104} INFO - [2021-05-09 18:20:38,777] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:20:39,582] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:20:39,596] {logging_mixin.py:104} INFO - [2021-05-09 18:20:39,595] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:20:39,620] {logging_mixin.py:104} INFO - [2021-05-09 18:20:39,619] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:20:39,715] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.971 seconds
+[2021-05-09 18:21:17,603] {scheduler_job.py:182} INFO - Started process (PID=10513) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:17,607] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:21:17,609] {logging_mixin.py:104} INFO - [2021-05-09 18:21:17,608] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:18,308] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:18,323] {logging_mixin.py:104} INFO - [2021-05-09 18:21:18,322] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:21:18,338] {logging_mixin.py:104} INFO - [2021-05-09 18:21:18,338] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:21:18,566] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.968 seconds
+[2021-05-09 18:21:56,360] {scheduler_job.py:182} INFO - Started process (PID=10618) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:56,362] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:21:56,363] {logging_mixin.py:104} INFO - [2021-05-09 18:21:56,363] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:57,399] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:21:57,429] {logging_mixin.py:104} INFO - [2021-05-09 18:21:57,428] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:21:57,454] {logging_mixin.py:104} INFO - [2021-05-09 18:21:57,454] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:21:57,554] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.199 seconds
+[2021-05-09 18:22:32,080] {scheduler_job.py:182} INFO - Started process (PID=10715) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:22:32,081] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:22:32,083] {logging_mixin.py:104} INFO - [2021-05-09 18:22:32,083] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:22:33,222] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:22:33,248] {logging_mixin.py:104} INFO - [2021-05-09 18:22:33,247] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:22:33,269] {logging_mixin.py:104} INFO - [2021-05-09 18:22:33,269] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:22:33,380] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.304 seconds
+[2021-05-09 18:23:11,530] {scheduler_job.py:182} INFO - Started process (PID=10817) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:11,532] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:23:11,533] {logging_mixin.py:104} INFO - [2021-05-09 18:23:11,533] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:12,295] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:12,316] {logging_mixin.py:104} INFO - [2021-05-09 18:23:12,316] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:23:12,334] {logging_mixin.py:104} INFO - [2021-05-09 18:23:12,334] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:23:12,419] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.893 seconds
+[2021-05-09 18:23:50,929] {scheduler_job.py:182} INFO - Started process (PID=11013) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:50,931] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:23:50,932] {logging_mixin.py:104} INFO - [2021-05-09 18:23:50,932] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:51,586] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:23:51,602] {logging_mixin.py:104} INFO - [2021-05-09 18:23:51,602] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:23:51,628] {logging_mixin.py:104} INFO - [2021-05-09 18:23:51,628] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:23:51,736] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.810 seconds
+[2021-05-09 18:24:29,284] {scheduler_job.py:182} INFO - Started process (PID=11110) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:24:29,285] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:24:29,287] {logging_mixin.py:104} INFO - [2021-05-09 18:24:29,286] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:24:30,109] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:24:30,128] {logging_mixin.py:104} INFO - [2021-05-09 18:24:30,128] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:24:30,145] {logging_mixin.py:104} INFO - [2021-05-09 18:24:30,145] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:24:30,241] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.961 seconds
+[2021-05-09 18:25:04,152] {scheduler_job.py:182} INFO - Started process (PID=11210) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:04,154] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:25:04,155] {logging_mixin.py:104} INFO - [2021-05-09 18:25:04,155] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:04,788] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:04,800] {logging_mixin.py:104} INFO - [2021-05-09 18:25:04,800] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:25:04,815] {logging_mixin.py:104} INFO - [2021-05-09 18:25:04,815] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:25:04,930] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.783 seconds
+[2021-05-09 18:25:42,308] {scheduler_job.py:182} INFO - Started process (PID=11305) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:42,311] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:25:42,313] {logging_mixin.py:104} INFO - [2021-05-09 18:25:42,312] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:43,142] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:25:43,162] {logging_mixin.py:104} INFO - [2021-05-09 18:25:43,161] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:25:43,188] {logging_mixin.py:104} INFO - [2021-05-09 18:25:43,188] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:25:43,301] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.997 seconds
+[2021-05-09 18:26:20,968] {scheduler_job.py:182} INFO - Started process (PID=11394) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:20,980] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:26:20,982] {logging_mixin.py:104} INFO - [2021-05-09 18:26:20,982] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:21,807] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:21,825] {logging_mixin.py:104} INFO - [2021-05-09 18:26:21,825] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:26:21,848] {logging_mixin.py:104} INFO - [2021-05-09 18:26:21,848] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:26:21,936] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.983 seconds
+[2021-05-09 18:26:56,210] {scheduler_job.py:182} INFO - Started process (PID=11479) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:56,212] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:26:56,213] {logging_mixin.py:104} INFO - [2021-05-09 18:26:56,213] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:57,199] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:26:57,215] {logging_mixin.py:104} INFO - [2021-05-09 18:26:57,215] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:26:57,237] {logging_mixin.py:104} INFO - [2021-05-09 18:26:57,237] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:26:57,330] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.123 seconds
+[2021-05-09 18:27:33,504] {scheduler_job.py:182} INFO - Started process (PID=11573) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:27:33,505] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:27:33,506] {logging_mixin.py:104} INFO - [2021-05-09 18:27:33,506] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:27:34,162] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:27:34,174] {logging_mixin.py:104} INFO - [2021-05-09 18:27:34,174] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:27:34,190] {logging_mixin.py:104} INFO - [2021-05-09 18:27:34,190] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:27:34,281] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.781 seconds
+[2021-05-09 18:28:08,015] {scheduler_job.py:182} INFO - Started process (PID=11652) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:08,018] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:28:08,020] {logging_mixin.py:104} INFO - [2021-05-09 18:28:08,020] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:08,733] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:08,750] {logging_mixin.py:104} INFO - [2021-05-09 18:28:08,750] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:28:08,779] {logging_mixin.py:104} INFO - [2021-05-09 18:28:08,779] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:28:08,883] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.872 seconds
+[2021-05-09 18:28:46,324] {scheduler_job.py:182} INFO - Started process (PID=11852) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:46,332] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:28:46,334] {logging_mixin.py:104} INFO - [2021-05-09 18:28:46,334] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:47,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:28:47,505] {logging_mixin.py:104} INFO - [2021-05-09 18:28:47,505] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:28:47,550] {logging_mixin.py:104} INFO - [2021-05-09 18:28:47,550] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:28:47,651] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.350 seconds
+[2021-05-09 18:29:20,984] {scheduler_job.py:182} INFO - Started process (PID=11919) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:20,989] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:29:20,990] {logging_mixin.py:104} INFO - [2021-05-09 18:29:20,990] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:21,815] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:21,828] {logging_mixin.py:104} INFO - [2021-05-09 18:29:21,828] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:29:21,844] {logging_mixin.py:104} INFO - [2021-05-09 18:29:21,844] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:29:21,945] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.973 seconds
+[2021-05-09 18:29:56,051] {scheduler_job.py:182} INFO - Started process (PID=11989) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:56,053] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:29:56,054] {logging_mixin.py:104} INFO - [2021-05-09 18:29:56,054] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:56,760] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:29:56,778] {logging_mixin.py:104} INFO - [2021-05-09 18:29:56,778] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:29:56,798] {logging_mixin.py:104} INFO - [2021-05-09 18:29:56,798] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:29:56,987] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.940 seconds
+[2021-05-09 18:30:30,992] {scheduler_job.py:182} INFO - Started process (PID=12071) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:30:30,994] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:30:30,995] {logging_mixin.py:104} INFO - [2021-05-09 18:30:30,994] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:30:31,627] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:30:31,641] {logging_mixin.py:104} INFO - [2021-05-09 18:30:31,641] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:30:31,656] {logging_mixin.py:104} INFO - [2021-05-09 18:30:31,655] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:30:31,757] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.771 seconds
+[2021-05-09 18:31:07,483] {scheduler_job.py:182} INFO - Started process (PID=12147) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:07,484] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:31:07,486] {logging_mixin.py:104} INFO - [2021-05-09 18:31:07,485] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:08,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:08,107] {logging_mixin.py:104} INFO - [2021-05-09 18:31:08,106] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:31:08,121] {logging_mixin.py:104} INFO - [2021-05-09 18:31:08,121] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:31:08,217] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.738 seconds
+[2021-05-09 18:31:48,014] {scheduler_job.py:182} INFO - Started process (PID=12334) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:48,017] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:31:48,018] {logging_mixin.py:104} INFO - [2021-05-09 18:31:48,018] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:49,106] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:31:49,123] {logging_mixin.py:104} INFO - [2021-05-09 18:31:49,123] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:31:49,145] {logging_mixin.py:104} INFO - [2021-05-09 18:31:49,145] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:31:49,246] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.252 seconds
+[2021-05-09 18:32:24,333] {scheduler_job.py:182} INFO - Started process (PID=12429) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:32:24,336] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:32:24,337] {logging_mixin.py:104} INFO - [2021-05-09 18:32:24,337] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:32:25,208] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:32:25,226] {logging_mixin.py:104} INFO - [2021-05-09 18:32:25,226] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:32:25,251] {logging_mixin.py:104} INFO - [2021-05-09 18:32:25,250] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:32:25,368] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.049 seconds
+[2021-05-09 18:33:03,396] {scheduler_job.py:182} INFO - Started process (PID=12610) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:03,398] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:33:03,399] {logging_mixin.py:104} INFO - [2021-05-09 18:33:03,399] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:04,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:04,125] {logging_mixin.py:104} INFO - [2021-05-09 18:33:04,124] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:33:04,147] {logging_mixin.py:104} INFO - [2021-05-09 18:33:04,147] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:33:04,231] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.838 seconds
+[2021-05-09 18:33:38,400] {scheduler_job.py:182} INFO - Started process (PID=12722) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:38,402] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:33:38,403] {logging_mixin.py:104} INFO - [2021-05-09 18:33:38,403] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:39,070] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:33:39,176] {logging_mixin.py:104} INFO - [2021-05-09 18:33:39,176] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:33:39,200] {logging_mixin.py:104} INFO - [2021-05-09 18:33:39,200] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:33:39,296] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.898 seconds
+[2021-05-09 18:34:15,478] {scheduler_job.py:182} INFO - Started process (PID=12806) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:15,480] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:34:15,481] {logging_mixin.py:104} INFO - [2021-05-09 18:34:15,481] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:16,232] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:16,245] {logging_mixin.py:104} INFO - [2021-05-09 18:34:16,244] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:34:16,262] {logging_mixin.py:104} INFO - [2021-05-09 18:34:16,262] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:34:16,374] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.901 seconds
+[2021-05-09 18:34:54,818] {scheduler_job.py:182} INFO - Started process (PID=12913) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:54,820] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:34:54,821] {logging_mixin.py:104} INFO - [2021-05-09 18:34:54,820] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:55,848] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:34:55,872] {logging_mixin.py:104} INFO - [2021-05-09 18:34:55,871] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:34:55,906] {logging_mixin.py:104} INFO - [2021-05-09 18:34:55,906] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:34:56,008] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.195 seconds
+[2021-05-09 18:35:36,148] {scheduler_job.py:182} INFO - Started process (PID=13461) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:35:36,151] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:35:36,152] {logging_mixin.py:104} INFO - [2021-05-09 18:35:36,152] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:35:36,844] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:35:36,863] {logging_mixin.py:104} INFO - [2021-05-09 18:35:36,862] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:35:36,887] {logging_mixin.py:104} INFO - [2021-05-09 18:35:36,887] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:35:36,995] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.852 seconds
+[2021-05-09 18:36:14,726] {scheduler_job.py:182} INFO - Started process (PID=13555) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:14,727] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:36:14,729] {logging_mixin.py:104} INFO - [2021-05-09 18:36:14,728] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:15,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:15,347] {logging_mixin.py:104} INFO - [2021-05-09 18:36:15,346] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:36:15,367] {logging_mixin.py:104} INFO - [2021-05-09 18:36:15,366] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:36:15,451] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.728 seconds
+[2021-05-09 18:36:52,474] {scheduler_job.py:182} INFO - Started process (PID=13754) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:52,475] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:36:52,476] {logging_mixin.py:104} INFO - [2021-05-09 18:36:52,476] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:53,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:36:53,152] {logging_mixin.py:104} INFO - [2021-05-09 18:36:53,152] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:36:53,177] {logging_mixin.py:104} INFO - [2021-05-09 18:36:53,177] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:36:53,286] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.816 seconds
+[2021-05-09 18:37:33,352] {scheduler_job.py:182} INFO - Started process (PID=13857) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:37:33,354] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:37:33,355] {logging_mixin.py:104} INFO - [2021-05-09 18:37:33,355] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:37:34,207] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:37:34,222] {logging_mixin.py:104} INFO - [2021-05-09 18:37:34,222] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:37:34,239] {logging_mixin.py:104} INFO - [2021-05-09 18:37:34,239] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:37:34,322] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.974 seconds
+[2021-05-09 18:38:07,612] {scheduler_job.py:182} INFO - Started process (PID=13932) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:07,614] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:38:07,616] {logging_mixin.py:104} INFO - [2021-05-09 18:38:07,616] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:08,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:08,413] {logging_mixin.py:104} INFO - [2021-05-09 18:38:08,413] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:38:08,433] {logging_mixin.py:104} INFO - [2021-05-09 18:38:08,433] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:38:08,535] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.928 seconds
+[2021-05-09 18:38:42,017] {scheduler_job.py:182} INFO - Started process (PID=14005) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:42,018] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:38:42,019] {logging_mixin.py:104} INFO - [2021-05-09 18:38:42,019] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:42,603] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:38:42,619] {logging_mixin.py:104} INFO - [2021-05-09 18:38:42,618] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:38:42,633] {logging_mixin.py:104} INFO - [2021-05-09 18:38:42,633] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:38:42,723] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.710 seconds
+[2021-05-09 18:39:19,967] {scheduler_job.py:182} INFO - Started process (PID=14079) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:19,969] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:39:19,970] {logging_mixin.py:104} INFO - [2021-05-09 18:39:19,969] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:20,611] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:20,628] {logging_mixin.py:104} INFO - [2021-05-09 18:39:20,627] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:39:20,642] {logging_mixin.py:104} INFO - [2021-05-09 18:39:20,642] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:39:20,737] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.774 seconds
+[2021-05-09 18:39:53,148] {scheduler_job.py:182} INFO - Started process (PID=14147) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:53,150] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:39:53,152] {logging_mixin.py:104} INFO - [2021-05-09 18:39:53,152] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:53,884] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:39:53,901] {logging_mixin.py:104} INFO - [2021-05-09 18:39:53,901] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:39:53,923] {logging_mixin.py:104} INFO - [2021-05-09 18:39:53,923] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:39:54,017] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.873 seconds
+[2021-05-09 18:40:26,152] {scheduler_job.py:182} INFO - Started process (PID=14216) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:40:26,154] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:40:26,155] {logging_mixin.py:104} INFO - [2021-05-09 18:40:26,154] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:40:26,817] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:40:26,833] {logging_mixin.py:104} INFO - [2021-05-09 18:40:26,833] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:40:26,856] {logging_mixin.py:104} INFO - [2021-05-09 18:40:26,856] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:40:26,985] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.839 seconds
+[2021-05-09 18:41:01,502] {scheduler_job.py:182} INFO - Started process (PID=14297) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:01,505] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:41:01,506] {logging_mixin.py:104} INFO - [2021-05-09 18:41:01,506] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:02,412] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:02,425] {logging_mixin.py:104} INFO - [2021-05-09 18:41:02,425] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:41:02,442] {logging_mixin.py:104} INFO - [2021-05-09 18:41:02,442] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:41:02,532] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.035 seconds
+[2021-05-09 18:41:34,780] {scheduler_job.py:182} INFO - Started process (PID=14380) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:34,782] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:41:34,783] {logging_mixin.py:104} INFO - [2021-05-09 18:41:34,782] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:35,570] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:41:35,587] {logging_mixin.py:104} INFO - [2021-05-09 18:41:35,587] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:41:35,609] {logging_mixin.py:104} INFO - [2021-05-09 18:41:35,609] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:41:35,736] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.971 seconds
+[2021-05-09 18:42:08,578] {scheduler_job.py:182} INFO - Started process (PID=14471) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:08,579] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:42:08,580] {logging_mixin.py:104} INFO - [2021-05-09 18:42:08,580] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:09,204] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:09,220] {logging_mixin.py:104} INFO - [2021-05-09 18:42:09,219] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:42:09,243] {logging_mixin.py:104} INFO - [2021-05-09 18:42:09,243] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:42:09,349] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.775 seconds
+[2021-05-09 18:42:42,347] {scheduler_job.py:182} INFO - Started process (PID=14553) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:42,349] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:42:42,349] {logging_mixin.py:104} INFO - [2021-05-09 18:42:42,349] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:42,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:42:43,011] {logging_mixin.py:104} INFO - [2021-05-09 18:42:43,011] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:42:43,031] {logging_mixin.py:104} INFO - [2021-05-09 18:42:43,031] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:42:43,128] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.784 seconds
+[2021-05-09 18:43:14,507] {scheduler_job.py:182} INFO - Started process (PID=14635) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:14,510] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:43:14,511] {logging_mixin.py:104} INFO - [2021-05-09 18:43:14,511] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:15,305] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:15,323] {logging_mixin.py:104} INFO - [2021-05-09 18:43:15,322] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:43:15,356] {logging_mixin.py:104} INFO - [2021-05-09 18:43:15,351] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:43:15,443] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.942 seconds
+[2021-05-09 18:43:50,133] {scheduler_job.py:182} INFO - Started process (PID=14723) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:50,135] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:43:50,136] {logging_mixin.py:104} INFO - [2021-05-09 18:43:50,135] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:50,857] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:43:50,871] {logging_mixin.py:104} INFO - [2021-05-09 18:43:50,871] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:43:50,888] {logging_mixin.py:104} INFO - [2021-05-09 18:43:50,888] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:43:51,022] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.893 seconds
+[2021-05-09 18:44:25,470] {scheduler_job.py:182} INFO - Started process (PID=14812) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:44:25,472] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:44:25,473] {logging_mixin.py:104} INFO - [2021-05-09 18:44:25,473] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:44:26,082] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:44:26,094] {logging_mixin.py:104} INFO - [2021-05-09 18:44:26,094] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:44:26,109] {logging_mixin.py:104} INFO - [2021-05-09 18:44:26,109] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:44:26,192] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.726 seconds
+[2021-05-09 18:45:01,801] {scheduler_job.py:182} INFO - Started process (PID=14905) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:01,802] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:45:01,803] {logging_mixin.py:104} INFO - [2021-05-09 18:45:01,803] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:02,411] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:02,424] {logging_mixin.py:104} INFO - [2021-05-09 18:45:02,424] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:45:02,441] {logging_mixin.py:104} INFO - [2021-05-09 18:45:02,441] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:45:02,583] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.786 seconds
+[2021-05-09 18:45:38,111] {scheduler_job.py:182} INFO - Started process (PID=14982) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:38,113] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:45:38,114] {logging_mixin.py:104} INFO - [2021-05-09 18:45:38,113] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:39,043] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:45:39,064] {logging_mixin.py:104} INFO - [2021-05-09 18:45:39,064] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:45:39,088] {logging_mixin.py:104} INFO - [2021-05-09 18:45:39,088] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:45:39,186] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.080 seconds
+[2021-05-09 18:46:13,052] {scheduler_job.py:182} INFO - Started process (PID=15074) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:13,053] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:46:13,056] {logging_mixin.py:104} INFO - [2021-05-09 18:46:13,055] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:13,916] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:13,934] {logging_mixin.py:104} INFO - [2021-05-09 18:46:13,933] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:46:13,957] {logging_mixin.py:104} INFO - [2021-05-09 18:46:13,957] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:46:14,058] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.011 seconds
+[2021-05-09 18:46:49,631] {scheduler_job.py:182} INFO - Started process (PID=15167) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:49,633] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:46:49,634] {logging_mixin.py:104} INFO - [2021-05-09 18:46:49,634] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:50,288] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:46:50,302] {logging_mixin.py:104} INFO - [2021-05-09 18:46:50,302] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:46:50,322] {logging_mixin.py:104} INFO - [2021-05-09 18:46:50,322] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:46:50,437] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.810 seconds
+[2021-05-09 18:47:25,827] {scheduler_job.py:182} INFO - Started process (PID=15268) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:47:25,829] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:47:25,830] {logging_mixin.py:104} INFO - [2021-05-09 18:47:25,829] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:47:26,528] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:47:26,547] {logging_mixin.py:104} INFO - [2021-05-09 18:47:26,546] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:47:26,573] {logging_mixin.py:104} INFO - [2021-05-09 18:47:26,573] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:47:26,663] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.840 seconds
+[2021-05-09 18:48:01,805] {scheduler_job.py:182} INFO - Started process (PID=15370) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:01,808] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:48:01,809] {logging_mixin.py:104} INFO - [2021-05-09 18:48:01,809] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:02,447] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:02,458] {logging_mixin.py:104} INFO - [2021-05-09 18:48:02,458] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:48:02,477] {logging_mixin.py:104} INFO - [2021-05-09 18:48:02,477] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:48:02,569] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.768 seconds
+[2021-05-09 18:48:38,329] {scheduler_job.py:182} INFO - Started process (PID=15460) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:38,331] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:48:38,332] {logging_mixin.py:104} INFO - [2021-05-09 18:48:38,332] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:38,991] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:48:39,002] {logging_mixin.py:104} INFO - [2021-05-09 18:48:39,002] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:48:39,018] {logging_mixin.py:104} INFO - [2021-05-09 18:48:39,018] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:48:39,112] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.787 seconds
+[2021-05-09 18:49:10,562] {scheduler_job.py:182} INFO - Started process (PID=15541) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:10,564] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:49:10,565] {logging_mixin.py:104} INFO - [2021-05-09 18:49:10,565] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:11,446] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:11,466] {logging_mixin.py:104} INFO - [2021-05-09 18:49:11,466] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:49:11,488] {logging_mixin.py:104} INFO - [2021-05-09 18:49:11,488] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:49:11,593] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.034 seconds
+[2021-05-09 18:49:43,887] {scheduler_job.py:182} INFO - Started process (PID=15627) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:43,889] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:49:43,890] {logging_mixin.py:104} INFO - [2021-05-09 18:49:43,890] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:44,518] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:49:44,531] {logging_mixin.py:104} INFO - [2021-05-09 18:49:44,531] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:49:44,546] {logging_mixin.py:104} INFO - [2021-05-09 18:49:44,546] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:49:44,638] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.755 seconds
+[2021-05-09 18:50:18,928] {scheduler_job.py:182} INFO - Started process (PID=15746) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:18,930] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:50:18,932] {logging_mixin.py:104} INFO - [2021-05-09 18:50:18,931] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:19,917] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:19,951] {logging_mixin.py:104} INFO - [2021-05-09 18:50:19,950] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:50:19,986] {logging_mixin.py:104} INFO - [2021-05-09 18:50:19,986] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:50:20,098] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.176 seconds
+[2021-05-09 18:50:55,362] {scheduler_job.py:182} INFO - Started process (PID=15861) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:55,365] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:50:55,365] {logging_mixin.py:104} INFO - [2021-05-09 18:50:55,365] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:56,021] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:50:56,041] {logging_mixin.py:104} INFO - [2021-05-09 18:50:56,041] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:50:56,061] {logging_mixin.py:104} INFO - [2021-05-09 18:50:56,061] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:50:56,198] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.839 seconds
+[2021-05-09 18:51:30,891] {scheduler_job.py:182} INFO - Started process (PID=15952) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:51:30,896] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:51:30,908] {logging_mixin.py:104} INFO - [2021-05-09 18:51:30,908] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:51:31,740] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:51:31,757] {logging_mixin.py:104} INFO - [2021-05-09 18:51:31,757] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:51:31,778] {logging_mixin.py:104} INFO - [2021-05-09 18:51:31,777] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:51:31,897] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.011 seconds
+[2021-05-09 18:52:04,695] {scheduler_job.py:182} INFO - Started process (PID=16040) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:04,698] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:52:04,699] {logging_mixin.py:104} INFO - [2021-05-09 18:52:04,699] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:05,430] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:05,450] {logging_mixin.py:104} INFO - [2021-05-09 18:52:05,449] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:52:05,468] {logging_mixin.py:104} INFO - [2021-05-09 18:52:05,468] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:52:05,563] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.873 seconds
+[2021-05-09 18:52:38,373] {scheduler_job.py:182} INFO - Started process (PID=16122) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:38,375] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:52:38,376] {logging_mixin.py:104} INFO - [2021-05-09 18:52:38,375] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:39,034] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:52:39,046] {logging_mixin.py:104} INFO - [2021-05-09 18:52:39,046] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:52:39,062] {logging_mixin.py:104} INFO - [2021-05-09 18:52:39,061] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:52:39,187] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.817 seconds
+[2021-05-09 18:53:10,286] {scheduler_job.py:182} INFO - Started process (PID=16207) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:10,288] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:53:10,289] {logging_mixin.py:104} INFO - [2021-05-09 18:53:10,289] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:11,052] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:11,066] {logging_mixin.py:104} INFO - [2021-05-09 18:53:11,066] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:53:11,083] {logging_mixin.py:104} INFO - [2021-05-09 18:53:11,083] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:53:11,166] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.884 seconds
+[2021-05-09 18:53:46,380] {scheduler_job.py:182} INFO - Started process (PID=16324) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:46,386] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:53:46,389] {logging_mixin.py:104} INFO - [2021-05-09 18:53:46,387] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:47,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:53:47,197] {logging_mixin.py:104} INFO - [2021-05-09 18:53:47,196] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:53:47,219] {logging_mixin.py:104} INFO - [2021-05-09 18:53:47,219] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:53:47,322] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.950 seconds
+[2021-05-09 18:54:21,359] {scheduler_job.py:182} INFO - Started process (PID=16569) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:21,361] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:54:21,365] {logging_mixin.py:104} INFO - [2021-05-09 18:54:21,365] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:22,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:22,347] {logging_mixin.py:104} INFO - [2021-05-09 18:54:22,347] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:54:22,375] {logging_mixin.py:104} INFO - [2021-05-09 18:54:22,374] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:54:22,567] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.225 seconds
+[2021-05-09 18:54:57,917] {scheduler_job.py:182} INFO - Started process (PID=16719) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:57,919] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:54:57,920] {logging_mixin.py:104} INFO - [2021-05-09 18:54:57,920] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:58,618] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:54:58,630] {logging_mixin.py:104} INFO - [2021-05-09 18:54:58,630] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:54:58,650] {logging_mixin.py:104} INFO - [2021-05-09 18:54:58,650] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:54:58,736] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.822 seconds
+[2021-05-09 18:55:47,239] {scheduler_job.py:182} INFO - Started process (PID=17003) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:55:47,241] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:55:47,242] {logging_mixin.py:104} INFO - [2021-05-09 18:55:47,242] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:55:47,881] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:55:47,896] {logging_mixin.py:104} INFO - [2021-05-09 18:55:47,895] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:55:47,915] {logging_mixin.py:104} INFO - [2021-05-09 18:55:47,915] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:55:48,040] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.803 seconds
+[2021-05-09 18:56:21,853] {scheduler_job.py:182} INFO - Started process (PID=17104) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:21,855] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:56:21,857] {logging_mixin.py:104} INFO - [2021-05-09 18:56:21,856] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:22,882] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:22,901] {logging_mixin.py:104} INFO - [2021-05-09 18:56:22,901] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:56:22,930] {logging_mixin.py:104} INFO - [2021-05-09 18:56:22,930] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:56:23,029] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.183 seconds
+[2021-05-09 18:56:57,938] {scheduler_job.py:182} INFO - Started process (PID=17192) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:57,941] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:56:57,942] {logging_mixin.py:104} INFO - [2021-05-09 18:56:57,942] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:58,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:56:58,696] {logging_mixin.py:104} INFO - [2021-05-09 18:56:58,696] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:56:58,712] {logging_mixin.py:104} INFO - [2021-05-09 18:56:58,712] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:56:58,797] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.865 seconds
+[2021-05-09 18:57:30,999] {scheduler_job.py:182} INFO - Started process (PID=17276) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:57:31,002] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:57:31,003] {logging_mixin.py:104} INFO - [2021-05-09 18:57:31,003] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:57:31,684] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:57:31,696] {logging_mixin.py:104} INFO - [2021-05-09 18:57:31,695] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:57:31,710] {logging_mixin.py:104} INFO - [2021-05-09 18:57:31,710] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:57:31,798] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.809 seconds
+[2021-05-09 18:58:07,357] {scheduler_job.py:182} INFO - Started process (PID=17375) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:07,359] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:58:07,360] {logging_mixin.py:104} INFO - [2021-05-09 18:58:07,360] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:08,096] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:08,109] {logging_mixin.py:104} INFO - [2021-05-09 18:58:08,108] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:58:08,124] {logging_mixin.py:104} INFO - [2021-05-09 18:58:08,124] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:58:08,211] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.858 seconds
+[2021-05-09 18:58:42,037] {scheduler_job.py:182} INFO - Started process (PID=17461) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:42,038] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:58:42,039] {logging_mixin.py:104} INFO - [2021-05-09 18:58:42,039] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:42,722] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:58:42,735] {logging_mixin.py:104} INFO - [2021-05-09 18:58:42,734] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:58:42,749] {logging_mixin.py:104} INFO - [2021-05-09 18:58:42,749] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:58:42,848] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.815 seconds
+[2021-05-09 18:59:18,349] {scheduler_job.py:182} INFO - Started process (PID=17685) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:18,350] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:59:18,351] {logging_mixin.py:104} INFO - [2021-05-09 18:59:18,351] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:18,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:18,977] {logging_mixin.py:104} INFO - [2021-05-09 18:59:18,976] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:59:18,991] {logging_mixin.py:104} INFO - [2021-05-09 18:59:18,991] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:59:19,105] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.759 seconds
+[2021-05-09 18:59:51,738] {scheduler_job.py:182} INFO - Started process (PID=17769) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:51,740] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 18:59:51,740] {logging_mixin.py:104} INFO - [2021-05-09 18:59:51,740] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:52,375] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 18:59:52,386] {logging_mixin.py:104} INFO - [2021-05-09 18:59:52,386] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 18:59:52,401] {logging_mixin.py:104} INFO - [2021-05-09 18:59:52,401] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 18:59:52,496] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.762 seconds
+[2021-05-09 19:00:29,623] {scheduler_job.py:182} INFO - Started process (PID=17868) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:00:29,634] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:00:29,636] {logging_mixin.py:104} INFO - [2021-05-09 19:00:29,635] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:00:30,585] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:00:30,603] {logging_mixin.py:104} INFO - [2021-05-09 19:00:30,603] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:00:30,633] {logging_mixin.py:104} INFO - [2021-05-09 19:00:30,633] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:00:30,731] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.112 seconds
+[2021-05-09 19:01:04,341] {scheduler_job.py:182} INFO - Started process (PID=17959) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:04,343] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:01:04,344] {logging_mixin.py:104} INFO - [2021-05-09 19:01:04,344] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:05,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:05,135] {logging_mixin.py:104} INFO - [2021-05-09 19:01:05,135] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:01:05,160] {logging_mixin.py:104} INFO - [2021-05-09 19:01:05,160] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:01:05,267] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.928 seconds
+[2021-05-09 19:01:37,600] {scheduler_job.py:182} INFO - Started process (PID=18043) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:37,601] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:01:37,603] {logging_mixin.py:104} INFO - [2021-05-09 19:01:37,602] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:38,199] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:01:38,214] {logging_mixin.py:104} INFO - [2021-05-09 19:01:38,213] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:01:38,231] {logging_mixin.py:104} INFO - [2021-05-09 19:01:38,231] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:01:38,324] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.727 seconds
+[2021-05-09 19:02:10,645] {scheduler_job.py:182} INFO - Started process (PID=18126) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:10,647] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:02:10,648] {logging_mixin.py:104} INFO - [2021-05-09 19:02:10,648] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:11,309] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:11,324] {logging_mixin.py:104} INFO - [2021-05-09 19:02:11,324] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:02:11,343] {logging_mixin.py:104} INFO - [2021-05-09 19:02:11,343] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:02:11,448] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.807 seconds
+[2021-05-09 19:02:45,186] {scheduler_job.py:182} INFO - Started process (PID=18203) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:45,189] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:02:45,191] {logging_mixin.py:104} INFO - [2021-05-09 19:02:45,190] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:45,815] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:02:45,827] {logging_mixin.py:104} INFO - [2021-05-09 19:02:45,827] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:02:45,842] {logging_mixin.py:104} INFO - [2021-05-09 19:02:45,842] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:02:45,962] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.780 seconds
+[2021-05-09 19:03:20,482] {scheduler_job.py:182} INFO - Started process (PID=18288) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:20,483] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:03:20,484] {logging_mixin.py:104} INFO - [2021-05-09 19:03:20,484] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:21,144] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:21,157] {logging_mixin.py:104} INFO - [2021-05-09 19:03:21,157] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:03:21,182] {logging_mixin.py:104} INFO - [2021-05-09 19:03:21,182] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:03:21,274] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.795 seconds
+[2021-05-09 19:03:55,239] {scheduler_job.py:182} INFO - Started process (PID=18375) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:55,240] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:03:55,241] {logging_mixin.py:104} INFO - [2021-05-09 19:03:55,241] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:55,907] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:03:55,921] {logging_mixin.py:104} INFO - [2021-05-09 19:03:55,920] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:03:55,936] {logging_mixin.py:104} INFO - [2021-05-09 19:03:55,936] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:03:56,055] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.820 seconds
+[2021-05-09 19:04:27,388] {scheduler_job.py:182} INFO - Started process (PID=18460) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:04:27,389] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:04:27,391] {logging_mixin.py:104} INFO - [2021-05-09 19:04:27,390] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:04:28,002] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:04:28,015] {logging_mixin.py:104} INFO - [2021-05-09 19:04:28,015] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:04:28,031] {logging_mixin.py:104} INFO - [2021-05-09 19:04:28,031] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:04:28,113] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.729 seconds
+[2021-05-09 19:05:05,701] {scheduler_job.py:182} INFO - Started process (PID=18568) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:05,704] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:05:05,706] {logging_mixin.py:104} INFO - [2021-05-09 19:05:05,706] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:06,635] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:06,652] {logging_mixin.py:104} INFO - [2021-05-09 19:05:06,651] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:05:06,674] {logging_mixin.py:104} INFO - [2021-05-09 19:05:06,674] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:05:06,771] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.076 seconds
+[2021-05-09 19:05:38,462] {scheduler_job.py:182} INFO - Started process (PID=18651) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:38,469] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:05:38,470] {logging_mixin.py:104} INFO - [2021-05-09 19:05:38,470] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:39,211] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:05:39,230] {logging_mixin.py:104} INFO - [2021-05-09 19:05:39,229] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:05:39,252] {logging_mixin.py:104} INFO - [2021-05-09 19:05:39,252] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:05:39,442] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.986 seconds
+[2021-05-09 19:06:11,271] {scheduler_job.py:182} INFO - Started process (PID=18735) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:11,273] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:06:11,275] {logging_mixin.py:104} INFO - [2021-05-09 19:06:11,273] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:12,214] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:12,232] {logging_mixin.py:104} INFO - [2021-05-09 19:06:12,232] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:06:12,257] {logging_mixin.py:104} INFO - [2021-05-09 19:06:12,257] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:06:12,341] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.077 seconds
+[2021-05-09 19:06:43,663] {scheduler_job.py:182} INFO - Started process (PID=18820) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:43,665] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:06:43,666] {logging_mixin.py:104} INFO - [2021-05-09 19:06:43,666] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:44,396] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:06:44,424] {logging_mixin.py:104} INFO - [2021-05-09 19:06:44,423] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:06:44,449] {logging_mixin.py:104} INFO - [2021-05-09 19:06:44,449] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:06:44,578] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.920 seconds
+[2021-05-09 19:07:19,332] {scheduler_job.py:182} INFO - Started process (PID=18914) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:19,334] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:07:19,334] {logging_mixin.py:104} INFO - [2021-05-09 19:07:19,334] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:19,952] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:19,964] {logging_mixin.py:104} INFO - [2021-05-09 19:07:19,964] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:07:19,980] {logging_mixin.py:104} INFO - [2021-05-09 19:07:19,980] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:07:20,068] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.740 seconds
+[2021-05-09 19:07:57,559] {scheduler_job.py:182} INFO - Started process (PID=18993) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:57,560] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:07:57,561] {logging_mixin.py:104} INFO - [2021-05-09 19:07:57,561] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:58,240] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:07:58,254] {logging_mixin.py:104} INFO - [2021-05-09 19:07:58,254] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:07:58,271] {logging_mixin.py:104} INFO - [2021-05-09 19:07:58,271] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:07:58,361] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.807 seconds
+[2021-05-09 19:08:32,719] {scheduler_job.py:182} INFO - Started process (PID=19086) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:08:32,720] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:08:32,720] {logging_mixin.py:104} INFO - [2021-05-09 19:08:32,720] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:08:33,387] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:08:33,399] {logging_mixin.py:104} INFO - [2021-05-09 19:08:33,399] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:08:33,413] {logging_mixin.py:104} INFO - [2021-05-09 19:08:33,413] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:08:33,520] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.805 seconds
+[2021-05-09 19:09:11,364] {scheduler_job.py:182} INFO - Started process (PID=19193) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:11,365] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:09:11,367] {logging_mixin.py:104} INFO - [2021-05-09 19:09:11,366] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:12,548] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:12,564] {logging_mixin.py:104} INFO - [2021-05-09 19:09:12,563] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:09:12,585] {logging_mixin.py:104} INFO - [2021-05-09 19:09:12,585] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:09:12,688] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.334 seconds
+[2021-05-09 19:09:46,129] {scheduler_job.py:182} INFO - Started process (PID=19302) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:46,131] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:09:46,132] {logging_mixin.py:104} INFO - [2021-05-09 19:09:46,132] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:46,772] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:09:46,787] {logging_mixin.py:104} INFO - [2021-05-09 19:09:46,786] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:09:46,811] {logging_mixin.py:104} INFO - [2021-05-09 19:09:46,810] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:09:46,890] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.765 seconds
+[2021-05-09 19:10:22,427] {scheduler_job.py:182} INFO - Started process (PID=19401) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:22,428] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:10:22,429] {logging_mixin.py:104} INFO - [2021-05-09 19:10:22,429] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:23,095] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:23,107] {logging_mixin.py:104} INFO - [2021-05-09 19:10:23,106] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:10:23,122] {logging_mixin.py:104} INFO - [2021-05-09 19:10:23,121] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:10:23,237] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.814 seconds
+[2021-05-09 19:10:56,914] {scheduler_job.py:182} INFO - Started process (PID=19495) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:56,916] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:10:56,917] {logging_mixin.py:104} INFO - [2021-05-09 19:10:56,917] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:57,564] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:10:57,575] {logging_mixin.py:104} INFO - [2021-05-09 19:10:57,574] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:10:57,590] {logging_mixin.py:104} INFO - [2021-05-09 19:10:57,590] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:10:57,708] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.798 seconds
+[2021-05-09 19:11:33,721] {scheduler_job.py:182} INFO - Started process (PID=19608) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:11:33,724] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:11:33,725] {logging_mixin.py:104} INFO - [2021-05-09 19:11:33,725] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:11:34,397] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:11:34,412] {logging_mixin.py:104} INFO - [2021-05-09 19:11:34,412] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:11:34,435] {logging_mixin.py:104} INFO - [2021-05-09 19:11:34,435] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:11:34,531] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.816 seconds
+[2021-05-09 19:12:08,278] {scheduler_job.py:182} INFO - Started process (PID=19694) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:08,279] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:12:08,280] {logging_mixin.py:104} INFO - [2021-05-09 19:12:08,279] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:08,929] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:08,949] {logging_mixin.py:104} INFO - [2021-05-09 19:12:08,949] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:12:08,968] {logging_mixin.py:104} INFO - [2021-05-09 19:12:08,968] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:12:09,058] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.785 seconds
+[2021-05-09 19:12:42,955] {scheduler_job.py:182} INFO - Started process (PID=19788) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:42,956] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:12:42,957] {logging_mixin.py:104} INFO - [2021-05-09 19:12:42,957] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:43,712] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:12:43,729] {logging_mixin.py:104} INFO - [2021-05-09 19:12:43,728] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:12:43,744] {logging_mixin.py:104} INFO - [2021-05-09 19:12:43,744] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:12:43,897] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.946 seconds
+[2021-05-09 19:13:17,622] {scheduler_job.py:182} INFO - Started process (PID=19893) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:17,623] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:13:17,624] {logging_mixin.py:104} INFO - [2021-05-09 19:13:17,624] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:18,435] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:18,453] {logging_mixin.py:104} INFO - [2021-05-09 19:13:18,452] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:13:18,510] {logging_mixin.py:104} INFO - [2021-05-09 19:13:18,510] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:13:18,595] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.977 seconds
+[2021-05-09 19:13:56,020] {scheduler_job.py:182} INFO - Started process (PID=20014) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:56,022] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:13:56,023] {logging_mixin.py:104} INFO - [2021-05-09 19:13:56,023] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:56,795] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:13:56,811] {logging_mixin.py:104} INFO - [2021-05-09 19:13:56,811] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:13:56,833] {logging_mixin.py:104} INFO - [2021-05-09 19:13:56,832] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:13:56,920] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.903 seconds
+[2021-05-09 19:14:32,777] {scheduler_job.py:182} INFO - Started process (PID=20106) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:14:32,781] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:14:32,787] {logging_mixin.py:104} INFO - [2021-05-09 19:14:32,787] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:14:33,923] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:14:33,945] {logging_mixin.py:104} INFO - [2021-05-09 19:14:33,944] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:14:33,973] {logging_mixin.py:104} INFO - [2021-05-09 19:14:33,973] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:14:34,135] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.373 seconds
+[2021-05-09 19:15:10,450] {scheduler_job.py:182} INFO - Started process (PID=20194) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:10,452] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:15:10,453] {logging_mixin.py:104} INFO - [2021-05-09 19:15:10,453] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:11,161] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:11,177] {logging_mixin.py:104} INFO - [2021-05-09 19:15:11,177] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:15:11,198] {logging_mixin.py:104} INFO - [2021-05-09 19:15:11,197] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:15:11,291] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.846 seconds
+[2021-05-09 19:15:48,463] {scheduler_job.py:182} INFO - Started process (PID=20282) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:48,465] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:15:48,466] {logging_mixin.py:104} INFO - [2021-05-09 19:15:48,466] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:49,804] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:15:49,823] {logging_mixin.py:104} INFO - [2021-05-09 19:15:49,822] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:15:49,848] {logging_mixin.py:104} INFO - [2021-05-09 19:15:49,848] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:15:49,983] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.524 seconds
+[2021-05-09 19:16:36,517] {scheduler_job.py:182} INFO - Started process (PID=20434) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:16:36,518] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:16:36,519] {logging_mixin.py:104} INFO - [2021-05-09 19:16:36,519] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:16:37,245] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:16:37,261] {logging_mixin.py:104} INFO - [2021-05-09 19:16:37,261] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:16:37,277] {logging_mixin.py:104} INFO - [2021-05-09 19:16:37,277] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:16:37,387] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.874 seconds
+[2021-05-09 19:17:15,435] {scheduler_job.py:182} INFO - Started process (PID=20529) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:17:15,437] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:17:15,439] {logging_mixin.py:104} INFO - [2021-05-09 19:17:15,439] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:17:16,216] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:17:16,230] {logging_mixin.py:104} INFO - [2021-05-09 19:17:16,230] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:17:16,249] {logging_mixin.py:104} INFO - [2021-05-09 19:17:16,249] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:17:16,371] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.940 seconds
+[2021-05-09 19:18:08,613] {scheduler_job.py:182} INFO - Started process (PID=20698) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:08,615] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:18:08,616] {logging_mixin.py:104} INFO - [2021-05-09 19:18:08,616] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:09,254] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:09,271] {logging_mixin.py:104} INFO - [2021-05-09 19:18:09,271] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:18:09,289] {logging_mixin.py:104} INFO - [2021-05-09 19:18:09,289] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:18:09,397] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.787 seconds
+[2021-05-09 19:18:43,550] {scheduler_job.py:182} INFO - Started process (PID=20776) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:43,552] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:18:43,554] {logging_mixin.py:104} INFO - [2021-05-09 19:18:43,553] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:44,214] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:18:44,226] {logging_mixin.py:104} INFO - [2021-05-09 19:18:44,226] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:18:44,243] {logging_mixin.py:104} INFO - [2021-05-09 19:18:44,243] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:18:44,330] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.785 seconds
+[2021-05-09 19:19:17,624] {scheduler_job.py:182} INFO - Started process (PID=20873) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:17,626] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:19:17,627] {logging_mixin.py:104} INFO - [2021-05-09 19:19:17,627] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:18,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:18,992] {logging_mixin.py:104} INFO - [2021-05-09 19:19:18,991] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:19:19,018] {logging_mixin.py:104} INFO - [2021-05-09 19:19:19,018] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:19:19,122] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.507 seconds
+[2021-05-09 19:19:54,920] {scheduler_job.py:182} INFO - Started process (PID=20985) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:54,921] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:19:54,922] {logging_mixin.py:104} INFO - [2021-05-09 19:19:54,922] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:55,778] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:19:55,810] {logging_mixin.py:104} INFO - [2021-05-09 19:19:55,809] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:19:55,856] {logging_mixin.py:104} INFO - [2021-05-09 19:19:55,856] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:19:55,981] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.065 seconds
+[2021-05-09 19:20:31,593] {scheduler_job.py:182} INFO - Started process (PID=21086) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:20:31,594] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:20:31,595] {logging_mixin.py:104} INFO - [2021-05-09 19:20:31,595] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:20:32,469] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:20:32,489] {logging_mixin.py:104} INFO - [2021-05-09 19:20:32,489] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:20:32,517] {logging_mixin.py:104} INFO - [2021-05-09 19:20:32,517] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:20:32,642] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.053 seconds
+[2021-05-09 19:21:10,232] {scheduler_job.py:182} INFO - Started process (PID=21181) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:10,237] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:21:10,239] {logging_mixin.py:104} INFO - [2021-05-09 19:21:10,238] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:10,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:10,914] {logging_mixin.py:104} INFO - [2021-05-09 19:21:10,913] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:21:10,929] {logging_mixin.py:104} INFO - [2021-05-09 19:21:10,929] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:21:11,032] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.805 seconds
+[2021-05-09 19:21:49,826] {scheduler_job.py:182} INFO - Started process (PID=21290) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:49,827] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:21:49,828] {logging_mixin.py:104} INFO - [2021-05-09 19:21:49,828] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:50,583] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:21:50,597] {logging_mixin.py:104} INFO - [2021-05-09 19:21:50,597] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:21:50,622] {logging_mixin.py:104} INFO - [2021-05-09 19:21:50,621] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:21:50,751] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.928 seconds
+[2021-05-09 19:22:25,688] {scheduler_job.py:182} INFO - Started process (PID=21390) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:22:25,689] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:22:25,690] {logging_mixin.py:104} INFO - [2021-05-09 19:22:25,690] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:22:26,408] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:22:26,423] {logging_mixin.py:104} INFO - [2021-05-09 19:22:26,422] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:22:26,440] {logging_mixin.py:104} INFO - [2021-05-09 19:22:26,439] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:22:26,528] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.845 seconds
+[2021-05-09 19:23:02,507] {scheduler_job.py:182} INFO - Started process (PID=21500) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:02,509] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:23:02,510] {logging_mixin.py:104} INFO - [2021-05-09 19:23:02,510] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:03,502] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:03,521] {logging_mixin.py:104} INFO - [2021-05-09 19:23:03,521] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:23:03,571] {logging_mixin.py:104} INFO - [2021-05-09 19:23:03,571] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:23:03,731] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.235 seconds
+[2021-05-09 19:23:55,357] {scheduler_job.py:182} INFO - Started process (PID=21673) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:55,361] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:23:55,362] {logging_mixin.py:104} INFO - [2021-05-09 19:23:55,362] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:56,013] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:23:56,031] {logging_mixin.py:104} INFO - [2021-05-09 19:23:56,030] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:23:56,054] {logging_mixin.py:104} INFO - [2021-05-09 19:23:56,054] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:23:56,562] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.209 seconds
+[2021-05-09 19:24:35,201] {scheduler_job.py:182} INFO - Started process (PID=21797) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:24:35,209] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:24:35,216] {logging_mixin.py:104} INFO - [2021-05-09 19:24:35,216] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:24:36,070] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:24:36,090] {logging_mixin.py:104} INFO - [2021-05-09 19:24:36,089] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:24:36,116] {logging_mixin.py:104} INFO - [2021-05-09 19:24:36,115] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:24:36,215] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.037 seconds
+[2021-05-09 19:25:27,355] {scheduler_job.py:182} INFO - Started process (PID=21967) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:25:27,358] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:25:27,359] {logging_mixin.py:104} INFO - [2021-05-09 19:25:27,358] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:25:28,212] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:25:28,229] {logging_mixin.py:104} INFO - [2021-05-09 19:25:28,229] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:25:28,253] {logging_mixin.py:104} INFO - [2021-05-09 19:25:28,253] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:25:28,842] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.492 seconds
+[2021-05-09 19:26:11,129] {scheduler_job.py:182} INFO - Started process (PID=22096) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:11,131] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:26:11,132] {logging_mixin.py:104} INFO - [2021-05-09 19:26:11,131] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:11,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:11,901] {logging_mixin.py:104} INFO - [2021-05-09 19:26:11,901] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:26:11,918] {logging_mixin.py:104} INFO - [2021-05-09 19:26:11,918] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:26:12,011] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.885 seconds
+[2021-05-09 19:26:42,326] {scheduler_job.py:182} INFO - Started process (PID=22168) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:42,329] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:26:42,330] {logging_mixin.py:104} INFO - [2021-05-09 19:26:42,330] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:43,295] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:26:43,310] {logging_mixin.py:104} INFO - [2021-05-09 19:26:43,309] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:26:43,327] {logging_mixin.py:104} INFO - [2021-05-09 19:26:43,326] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:26:43,434] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.117 seconds
+[2021-05-09 19:27:21,738] {scheduler_job.py:182} INFO - Started process (PID=22281) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:21,740] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:27:21,741] {logging_mixin.py:104} INFO - [2021-05-09 19:27:21,740] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:22,491] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:22,503] {logging_mixin.py:104} INFO - [2021-05-09 19:27:22,502] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:27:22,519] {logging_mixin.py:104} INFO - [2021-05-09 19:27:22,519] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:27:22,677] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.943 seconds
+[2021-05-09 19:27:56,777] {scheduler_job.py:182} INFO - Started process (PID=22375) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:56,780] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:27:56,783] {logging_mixin.py:104} INFO - [2021-05-09 19:27:56,781] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:57,511] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:27:57,535] {logging_mixin.py:104} INFO - [2021-05-09 19:27:57,534] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:27:57,566] {logging_mixin.py:104} INFO - [2021-05-09 19:27:57,566] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:27:57,680] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.907 seconds
+[2021-05-09 19:28:39,416] {scheduler_job.py:182} INFO - Started process (PID=22499) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:28:39,418] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:28:39,419] {logging_mixin.py:104} INFO - [2021-05-09 19:28:39,419] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:28:40,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:28:40,251] {logging_mixin.py:104} INFO - [2021-05-09 19:28:40,251] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:28:40,276] {logging_mixin.py:104} INFO - [2021-05-09 19:28:40,276] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:28:40,404] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.996 seconds
+[2021-05-09 19:29:14,755] {scheduler_job.py:182} INFO - Started process (PID=22605) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:14,756] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:29:14,757] {logging_mixin.py:104} INFO - [2021-05-09 19:29:14,757] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:15,594] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:15,615] {logging_mixin.py:104} INFO - [2021-05-09 19:29:15,614] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:29:15,638] {logging_mixin.py:104} INFO - [2021-05-09 19:29:15,638] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:29:15,787] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.035 seconds
+[2021-05-09 19:29:50,736] {scheduler_job.py:182} INFO - Started process (PID=22704) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:50,744] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:29:50,746] {logging_mixin.py:104} INFO - [2021-05-09 19:29:50,746] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:51,574] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:29:51,619] {logging_mixin.py:104} INFO - [2021-05-09 19:29:51,619] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:29:51,650] {logging_mixin.py:104} INFO - [2021-05-09 19:29:51,650] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:29:51,766] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.035 seconds
+[2021-05-09 19:30:24,348] {scheduler_job.py:182} INFO - Started process (PID=22789) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:24,352] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:30:24,353] {logging_mixin.py:104} INFO - [2021-05-09 19:30:24,353] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:25,481] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:25,492] {logging_mixin.py:104} INFO - [2021-05-09 19:30:25,492] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:30:25,507] {logging_mixin.py:104} INFO - [2021-05-09 19:30:25,507] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:30:25,609] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.270 seconds
+[2021-05-09 19:30:58,744] {scheduler_job.py:182} INFO - Started process (PID=22895) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:58,748] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:30:58,752] {logging_mixin.py:104} INFO - [2021-05-09 19:30:58,750] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:59,516] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:30:59,527] {logging_mixin.py:104} INFO - [2021-05-09 19:30:59,526] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:30:59,542] {logging_mixin.py:104} INFO - [2021-05-09 19:30:59,542] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:30:59,630] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.890 seconds
+[2021-05-09 19:31:39,454] {scheduler_job.py:182} INFO - Started process (PID=23006) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:31:39,456] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:31:39,457] {logging_mixin.py:104} INFO - [2021-05-09 19:31:39,457] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:31:40,285] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:31:40,300] {logging_mixin.py:104} INFO - [2021-05-09 19:31:40,300] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:31:40,317] {logging_mixin.py:104} INFO - [2021-05-09 19:31:40,317] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:31:40,418] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.970 seconds
+[2021-05-09 19:32:20,533] {scheduler_job.py:182} INFO - Started process (PID=23116) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:20,539] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:32:20,540] {logging_mixin.py:104} INFO - [2021-05-09 19:32:20,540] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:21,758] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:21,776] {logging_mixin.py:104} INFO - [2021-05-09 19:32:21,775] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:32:21,800] {logging_mixin.py:104} INFO - [2021-05-09 19:32:21,800] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:32:21,900] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.371 seconds
+[2021-05-09 19:32:57,713] {scheduler_job.py:182} INFO - Started process (PID=23207) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:57,715] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:32:57,718] {logging_mixin.py:104} INFO - [2021-05-09 19:32:57,718] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:58,422] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:32:58,433] {logging_mixin.py:104} INFO - [2021-05-09 19:32:58,433] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:32:58,450] {logging_mixin.py:104} INFO - [2021-05-09 19:32:58,450] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:32:58,560] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.852 seconds
+[2021-05-09 19:33:35,810] {scheduler_job.py:182} INFO - Started process (PID=23300) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:33:35,812] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:33:35,813] {logging_mixin.py:104} INFO - [2021-05-09 19:33:35,813] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:33:36,517] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:33:36,587] {logging_mixin.py:104} INFO - [2021-05-09 19:33:36,587] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:33:36,610] {logging_mixin.py:104} INFO - [2021-05-09 19:33:36,610] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:33:36,688] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.882 seconds
+[2021-05-09 19:34:17,120] {scheduler_job.py:182} INFO - Started process (PID=23409) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:17,122] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:34:17,125] {logging_mixin.py:104} INFO - [2021-05-09 19:34:17,124] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:17,970] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:17,991] {logging_mixin.py:104} INFO - [2021-05-09 19:34:17,990] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:34:18,019] {logging_mixin.py:104} INFO - [2021-05-09 19:34:18,019] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:34:18,156] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.040 seconds
+[2021-05-09 19:34:56,298] {scheduler_job.py:182} INFO - Started process (PID=23492) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:56,301] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:34:56,303] {logging_mixin.py:104} INFO - [2021-05-09 19:34:56,303] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:56,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:34:57,011] {logging_mixin.py:104} INFO - [2021-05-09 19:34:57,010] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:34:57,030] {logging_mixin.py:104} INFO - [2021-05-09 19:34:57,030] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:34:57,409] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.114 seconds
+[2021-05-09 19:35:31,716] {scheduler_job.py:182} INFO - Started process (PID=23572) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:35:31,717] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:35:31,718] {logging_mixin.py:104} INFO - [2021-05-09 19:35:31,718] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:35:32,461] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:35:32,475] {logging_mixin.py:104} INFO - [2021-05-09 19:35:32,475] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:35:32,497] {logging_mixin.py:104} INFO - [2021-05-09 19:35:32,497] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:35:32,614] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.902 seconds
+[2021-05-09 19:36:12,106] {scheduler_job.py:182} INFO - Started process (PID=23652) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:12,107] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:36:12,110] {logging_mixin.py:104} INFO - [2021-05-09 19:36:12,109] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:12,958] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:12,975] {logging_mixin.py:104} INFO - [2021-05-09 19:36:12,974] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:36:12,998] {logging_mixin.py:104} INFO - [2021-05-09 19:36:12,998] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:36:13,119] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.016 seconds
+[2021-05-09 19:36:50,149] {scheduler_job.py:182} INFO - Started process (PID=23734) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:50,152] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:36:50,155] {logging_mixin.py:104} INFO - [2021-05-09 19:36:50,155] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:51,490] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:36:51,564] {logging_mixin.py:104} INFO - [2021-05-09 19:36:51,564] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:36:51,614] {logging_mixin.py:104} INFO - [2021-05-09 19:36:51,614] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:36:51,729] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.600 seconds
+[2021-05-09 19:37:27,856] {scheduler_job.py:182} INFO - Started process (PID=23818) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:37:27,859] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:37:27,860] {logging_mixin.py:104} INFO - [2021-05-09 19:37:27,860] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:37:28,786] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:37:28,807] {logging_mixin.py:104} INFO - [2021-05-09 19:37:28,807] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:37:28,835] {logging_mixin.py:104} INFO - [2021-05-09 19:37:28,835] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:37:28,939] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.088 seconds
+[2021-05-09 19:38:06,391] {scheduler_job.py:182} INFO - Started process (PID=23905) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:06,394] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:38:06,395] {logging_mixin.py:104} INFO - [2021-05-09 19:38:06,395] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:07,283] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:07,300] {logging_mixin.py:104} INFO - [2021-05-09 19:38:07,300] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:38:07,322] {logging_mixin.py:104} INFO - [2021-05-09 19:38:07,322] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:38:07,430] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.045 seconds
+[2021-05-09 19:38:43,547] {scheduler_job.py:182} INFO - Started process (PID=23988) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:43,549] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:38:43,550] {logging_mixin.py:104} INFO - [2021-05-09 19:38:43,550] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:44,337] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:38:44,355] {logging_mixin.py:104} INFO - [2021-05-09 19:38:44,355] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:38:44,379] {logging_mixin.py:104} INFO - [2021-05-09 19:38:44,378] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:38:44,513] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.969 seconds
+[2021-05-09 19:39:26,197] {scheduler_job.py:182} INFO - Started process (PID=24124) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:39:26,201] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:39:26,205] {logging_mixin.py:104} INFO - [2021-05-09 19:39:26,204] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:39:28,198] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:39:28,236] {logging_mixin.py:104} INFO - [2021-05-09 19:39:28,235] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:39:28,278] {logging_mixin.py:104} INFO - [2021-05-09 19:39:28,278] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:39:28,401] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 2.218 seconds
+[2021-05-09 19:40:10,321] {scheduler_job.py:182} INFO - Started process (PID=24224) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:10,323] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:40:10,326] {logging_mixin.py:104} INFO - [2021-05-09 19:40:10,325] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:11,462] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:11,481] {logging_mixin.py:104} INFO - [2021-05-09 19:40:11,481] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:40:11,529] {logging_mixin.py:104} INFO - [2021-05-09 19:40:11,529] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:40:11,623] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.313 seconds
+[2021-05-09 19:40:50,333] {scheduler_job.py:182} INFO - Started process (PID=24332) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:50,334] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:40:50,336] {logging_mixin.py:104} INFO - [2021-05-09 19:40:50,336] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:51,042] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:40:51,055] {logging_mixin.py:104} INFO - [2021-05-09 19:40:51,054] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:40:51,074] {logging_mixin.py:104} INFO - [2021-05-09 19:40:51,074] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:40:51,209] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.881 seconds
+[2021-05-09 19:41:33,278] {scheduler_job.py:182} INFO - Started process (PID=24452) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:41:33,284] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:41:33,285] {logging_mixin.py:104} INFO - [2021-05-09 19:41:33,284] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:41:34,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:41:34,317] {logging_mixin.py:104} INFO - [2021-05-09 19:41:34,316] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:41:34,342] {logging_mixin.py:104} INFO - [2021-05-09 19:41:34,342] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:41:34,496] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.223 seconds
+[2021-05-09 19:42:17,792] {scheduler_job.py:182} INFO - Started process (PID=24570) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:42:17,797] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:42:17,799] {logging_mixin.py:104} INFO - [2021-05-09 19:42:17,798] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:42:18,485] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:42:18,510] {logging_mixin.py:104} INFO - [2021-05-09 19:42:18,510] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:42:18,545] {logging_mixin.py:104} INFO - [2021-05-09 19:42:18,545] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:42:18,629] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.844 seconds
+[2021-05-09 19:43:01,421] {scheduler_job.py:182} INFO - Started process (PID=24688) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:01,423] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:43:01,424] {logging_mixin.py:104} INFO - [2021-05-09 19:43:01,424] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:02,374] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:02,391] {logging_mixin.py:104} INFO - [2021-05-09 19:43:02,390] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:43:02,414] {logging_mixin.py:104} INFO - [2021-05-09 19:43:02,414] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:43:02,531] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 1.117 seconds
+[2021-05-09 19:43:41,143] {scheduler_job.py:182} INFO - Started process (PID=24788) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:41,145] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:43:41,146] {logging_mixin.py:104} INFO - [2021-05-09 19:43:41,146] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:41,853] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:43:41,868] {logging_mixin.py:104} INFO - [2021-05-09 19:43:41,868] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:43:41,888] {logging_mixin.py:104} INFO - [2021-05-09 19:43:41,888] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:43:42,012] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.874 seconds
+[2021-05-09 19:44:20,045] {scheduler_job.py:182} INFO - Started process (PID=24895) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:20,046] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:44:20,047] {logging_mixin.py:104} INFO - [2021-05-09 19:44:20,047] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:20,640] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:20,654] {logging_mixin.py:104} INFO - [2021-05-09 19:44:20,654] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:44:20,672] {logging_mixin.py:104} INFO - [2021-05-09 19:44:20,672] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:44:20,768] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.727 seconds
+[2021-05-09 19:44:57,693] {scheduler_job.py:182} INFO - Started process (PID=25016) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:57,695] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:44:57,695] {logging_mixin.py:104} INFO - [2021-05-09 19:44:57,695] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:58,172] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:44:58,184] {logging_mixin.py:104} INFO - [2021-05-09 19:44:58,184] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:44:58,200] {logging_mixin.py:104} INFO - [2021-05-09 19:44:58,200] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:44:58,302] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.612 seconds
+[2021-05-09 19:45:33,550] {scheduler_job.py:182} INFO - Started process (PID=25118) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:45:33,552] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:45:33,553] {logging_mixin.py:104} INFO - [2021-05-09 19:45:33,553] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:45:34,246] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:45:34,265] {logging_mixin.py:104} INFO - [2021-05-09 19:45:34,265] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:45:34,291] {logging_mixin.py:104} INFO - [2021-05-09 19:45:34,290] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:45:34,383] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.837 seconds
+[2021-05-09 19:46:07,808] {scheduler_job.py:182} INFO - Started process (PID=25214) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:07,809] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:46:07,810] {logging_mixin.py:104} INFO - [2021-05-09 19:46:07,810] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:08,392] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:08,405] {logging_mixin.py:104} INFO - [2021-05-09 19:46:08,404] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:46:08,420] {logging_mixin.py:104} INFO - [2021-05-09 19:46:08,420] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:46:08,551] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.747 seconds
+[2021-05-09 19:46:41,308] {scheduler_job.py:182} INFO - Started process (PID=25311) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:41,309] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:46:41,310] {logging_mixin.py:104} INFO - [2021-05-09 19:46:41,309] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:41,772] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:46:41,784] {logging_mixin.py:104} INFO - [2021-05-09 19:46:41,784] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:46:41,804] {logging_mixin.py:104} INFO - [2021-05-09 19:46:41,804] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:46:41,952] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.648 seconds
+[2021-05-09 19:47:12,935] {scheduler_job.py:182} INFO - Started process (PID=25401) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:12,937] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:47:12,938] {logging_mixin.py:104} INFO - [2021-05-09 19:47:12,938] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:13,393] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:13,406] {logging_mixin.py:104} INFO - [2021-05-09 19:47:13,405] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:47:13,423] {logging_mixin.py:104} INFO - [2021-05-09 19:47:13,423] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:47:13,576] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.647 seconds
+[2021-05-09 19:47:49,092] {scheduler_job.py:182} INFO - Started process (PID=25511) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:49,094] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:47:49,095] {logging_mixin.py:104} INFO - [2021-05-09 19:47:49,094] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:49,632] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:47:49,647] {logging_mixin.py:104} INFO - [2021-05-09 19:47:49,646] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:47:49,665] {logging_mixin.py:104} INFO - [2021-05-09 19:47:49,665] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:47:49,791] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.702 seconds
+[2021-05-09 19:48:21,569] {scheduler_job.py:182} INFO - Started process (PID=25603) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:21,570] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:48:21,571] {logging_mixin.py:104} INFO - [2021-05-09 19:48:21,571] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:22,106] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:22,127] {logging_mixin.py:104} INFO - [2021-05-09 19:48:22,126] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:48:22,149] {logging_mixin.py:104} INFO - [2021-05-09 19:48:22,149] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:48:22,247] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.684 seconds
+[2021-05-09 19:48:54,495] {scheduler_job.py:182} INFO - Started process (PID=25837) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:54,498] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:48:54,499] {logging_mixin.py:104} INFO - [2021-05-09 19:48:54,499] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:55,222] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:48:55,245] {logging_mixin.py:104} INFO - [2021-05-09 19:48:55,244] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:48:55,268] {logging_mixin.py:104} INFO - [2021-05-09 19:48:55,268] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:48:55,383] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.896 seconds
+[2021-05-09 19:49:26,036] {scheduler_job.py:182} INFO - Started process (PID=25930) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:49:26,038] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:49:26,039] {logging_mixin.py:104} INFO - [2021-05-09 19:49:26,039] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:49:26,600] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:49:26,619] {logging_mixin.py:104} INFO - [2021-05-09 19:49:26,619] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:49:26,636] {logging_mixin.py:104} INFO - [2021-05-09 19:49:26,636] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:49:26,718] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.696 seconds
+[2021-05-09 19:50:00,888] {scheduler_job.py:182} INFO - Started process (PID=26030) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:00,890] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:50:00,891] {logging_mixin.py:104} INFO - [2021-05-09 19:50:00,891] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:01,418] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:01,438] {logging_mixin.py:104} INFO - [2021-05-09 19:50:01,438] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:50:01,461] {logging_mixin.py:104} INFO - [2021-05-09 19:50:01,461] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:50:01,686] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.802 seconds
+[2021-05-09 19:50:42,303] {scheduler_job.py:182} INFO - Started process (PID=26238) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:42,304] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:50:42,305] {logging_mixin.py:104} INFO - [2021-05-09 19:50:42,305] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:43,100] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:50:43,118] {logging_mixin.py:104} INFO - [2021-05-09 19:50:43,117] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:50:43,141] {logging_mixin.py:104} INFO - [2021-05-09 19:50:43,141] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:50:43,232] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.933 seconds
+[2021-05-09 19:51:14,739] {scheduler_job.py:182} INFO - Started process (PID=26328) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:14,741] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:51:14,741] {logging_mixin.py:104} INFO - [2021-05-09 19:51:14,741] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:15,199] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:15,212] {logging_mixin.py:104} INFO - [2021-05-09 19:51:15,212] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:51:15,227] {logging_mixin.py:104} INFO - [2021-05-09 19:51:15,227] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:51:15,334] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.598 seconds
+[2021-05-09 19:51:52,357] {scheduler_job.py:182} INFO - Started process (PID=26714) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:52,359] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:51:52,360] {logging_mixin.py:104} INFO - [2021-05-09 19:51:52,359] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:52,902] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:51:52,920] {logging_mixin.py:104} INFO - [2021-05-09 19:51:52,920] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:51:52,943] {logging_mixin.py:104} INFO - [2021-05-09 19:51:52,942] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:51:53,026] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.673 seconds
+[2021-05-09 19:52:24,721] {scheduler_job.py:182} INFO - Started process (PID=26798) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:52:24,722] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:52:24,723] {logging_mixin.py:104} INFO - [2021-05-09 19:52:24,723] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:52:25,190] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:52:25,203] {logging_mixin.py:104} INFO - [2021-05-09 19:52:25,203] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:52:25,219] {logging_mixin.py:104} INFO - [2021-05-09 19:52:25,219] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:52:25,327] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.609 seconds
+[2021-05-09 19:53:04,061] {scheduler_job.py:182} INFO - Started process (PID=27009) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:04,064] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:53:04,066] {logging_mixin.py:104} INFO - [2021-05-09 19:53:04,066] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:04,620] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:04,634] {logging_mixin.py:104} INFO - [2021-05-09 19:53:04,634] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:53:04,650] {logging_mixin.py:104} INFO - [2021-05-09 19:53:04,650] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:53:04,808] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.751 seconds
+[2021-05-09 19:53:44,436] {scheduler_job.py:182} INFO - Started process (PID=27231) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:44,437] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:53:44,441] {logging_mixin.py:104} INFO - [2021-05-09 19:53:44,439] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:45,015] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:53:45,031] {logging_mixin.py:104} INFO - [2021-05-09 19:53:45,030] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:53:45,047] {logging_mixin.py:104} INFO - [2021-05-09 19:53:45,046] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:53:45,131] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.702 seconds
+[2021-05-09 19:54:16,404] {scheduler_job.py:182} INFO - Started process (PID=27300) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:16,406] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:54:16,407] {logging_mixin.py:104} INFO - [2021-05-09 19:54:16,407] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:16,857] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:16,869] {logging_mixin.py:104} INFO - [2021-05-09 19:54:16,869] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:54:16,884] {logging_mixin.py:104} INFO - [2021-05-09 19:54:16,884] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:54:16,978] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.578 seconds
+[2021-05-09 19:54:47,044] {scheduler_job.py:182} INFO - Started process (PID=27369) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:47,046] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:54:47,046] {logging_mixin.py:104} INFO - [2021-05-09 19:54:47,046] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:47,528] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:54:47,540] {logging_mixin.py:104} INFO - [2021-05-09 19:54:47,540] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:54:47,554] {logging_mixin.py:104} INFO - [2021-05-09 19:54:47,554] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:54:47,682] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.641 seconds
+[2021-05-09 19:55:19,672] {scheduler_job.py:182} INFO - Started process (PID=27444) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:19,674] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:55:19,675] {logging_mixin.py:104} INFO - [2021-05-09 19:55:19,675] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:20,140] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:20,154] {logging_mixin.py:104} INFO - [2021-05-09 19:55:20,153] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:55:20,169] {logging_mixin.py:104} INFO - [2021-05-09 19:55:20,169] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:55:20,272] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.604 seconds
+[2021-05-09 19:55:53,537] {scheduler_job.py:182} INFO - Started process (PID=27582) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:53,539] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:55:53,540] {logging_mixin.py:104} INFO - [2021-05-09 19:55:53,540] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:53,998] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:55:54,010] {logging_mixin.py:104} INFO - [2021-05-09 19:55:54,010] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:55:54,024] {logging_mixin.py:104} INFO - [2021-05-09 19:55:54,024] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:55:54,117] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.585 seconds
+[2021-05-09 19:56:28,882] {scheduler_job.py:182} INFO - Started process (PID=27721) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:56:28,883] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:56:28,884] {logging_mixin.py:104} INFO - [2021-05-09 19:56:28,884] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:56:29,355] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:56:29,368] {logging_mixin.py:104} INFO - [2021-05-09 19:56:29,367] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:56:29,382] {logging_mixin.py:104} INFO - [2021-05-09 19:56:29,382] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:56:29,508] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.629 seconds
+[2021-05-09 19:57:07,050] {scheduler_job.py:182} INFO - Started process (PID=27806) to work on /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:57:07,051] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/dag__4.py for tasks to queue
+[2021-05-09 19:57:07,052] {logging_mixin.py:104} INFO - [2021-05-09 19:57:07,052] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:57:07,518] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['dag_4']) retrieved from /home/navneetsajwan/airflow/dags/dag__4.py
+[2021-05-09 19:57:07,530] {logging_mixin.py:104} INFO - [2021-05-09 19:57:07,530] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-09 19:57:07,544] {logging_mixin.py:104} INFO - [2021-05-09 19:57:07,544] {dag.py:2280} INFO - Setting next_dagrun for dag_4 to 2021-05-09 00:00:00+00:00
+[2021-05-09 19:57:07,654] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/dag__4.py took 0.607 seconds

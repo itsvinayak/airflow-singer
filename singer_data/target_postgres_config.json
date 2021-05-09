@@ -1,0 +1,8 @@
+{
+    "postgres_host": "localhost",
+    "postgres_port": 5432,
+    "postgres_database": "useraccount",
+    "postgres_username": "postgres",
+    "postgres_password": "Meta@123",
+    "postgres_schema": "meta_lab"
+  }

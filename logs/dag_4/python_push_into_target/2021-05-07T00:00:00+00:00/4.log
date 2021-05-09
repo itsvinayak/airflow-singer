@@ -1,0 +1,24 @@
+[2021-05-08 18:40:32,049] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.python_push_into_target 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 18:40:32,070] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: dag_4.python_push_into_target 2021-05-07T00:00:00+00:00 [queued]>
+[2021-05-08 18:40:32,071] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 18:40:32,071] {taskinstance.py:1069} INFO - Starting attempt 4 of 6
+[2021-05-08 18:40:32,071] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-08 18:40:32,202] {taskinstance.py:1089} INFO - Executing <Task(PythonOperator): python_push_into_target> on 2021-05-07T00:00:00+00:00
+[2021-05-08 18:40:32,219] {standard_task_runner.py:52} INFO - Started process 192832 to run task
+[2021-05-08 18:40:32,221] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_4', 'python_push_into_target', '2021-05-07T00:00:00+00:00', '--job-id', '84', '--pool', 'default_pool', '--raw', '--subdir', '/home/navneetsajwan/airflow/dags/dag__4.py', '--cfg-path', '/tmp/tmpo2m9rpbl', '--error-file', '/tmp/tmp20nx_is1']
+[2021-05-08 18:40:32,223] {standard_task_runner.py:77} INFO - Job 84: Subtask python_push_into_target
+[2021-05-08 18:40:32,374] {logging_mixin.py:104} INFO - Running <TaskInstance: dag_4.python_push_into_target 2021-05-07T00:00:00+00:00 [running]> on host navneetsajwan-Lenovo-G50-80
+[2021-05-08 18:40:32,464] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=navneet@metaorigins.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dag_4
+AIRFLOW_CTX_TASK_ID=python_push_into_target
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-07T00:00:00+00:00
+[2021-05-08 18:40:34,018] {logging_mixin.py:104} INFO - push_test
+[2021-05-08 18:40:34,019] {python.py:118} INFO - Done. Returned value was: None
+[2021-05-08 18:40:34,025] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=dag_4, task_id=python_push_into_target, execution_date=20210507T000000, start_date=20210508T131032, end_date=20210508T131034
+[2021-05-08 18:40:34,246] {taskinstance.py:1246} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-08 18:40:34,266] {local_task_job.py:146} INFO - Task exited with return code 0

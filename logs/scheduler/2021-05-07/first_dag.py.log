@@ -1,0 +1,145 @@
+[2021-05-08 01:24:18,047] {scheduler_job.py:182} INFO - Started process (PID=457618) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:24:18,048] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:24:18,049] {logging_mixin.py:104} INFO - [2021-05-08 01:24:18,049] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:24:18,665] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:24:18,781] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:24:18,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:24:18,799] {logging_mixin.py:104} INFO - [2021-05-08 01:24:18,799] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:24:18,810] {logging_mixin.py:104} INFO - [2021-05-08 01:24:18,809] {dag.py:1843} INFO - Creating ORM DAG for first_dag
+[2021-05-08 01:24:18,832] {logging_mixin.py:104} INFO - [2021-05-08 01:24:18,832] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:24:18,999] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 0.957 seconds
+[2021-05-08 01:25:12,951] {scheduler_job.py:182} INFO - Started process (PID=458584) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:25:12,953] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:25:12,954] {logging_mixin.py:104} INFO - [2021-05-08 01:25:12,954] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:25:13,910] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:25:14,174] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:25:14,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:25:14,201] {logging_mixin.py:104} INFO - [2021-05-08 01:25:14,201] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:25:14,268] {logging_mixin.py:104} INFO - [2021-05-08 01:25:14,268] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:25:14,585] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.677 seconds
+[2021-05-08 01:26:17,126] {scheduler_job.py:182} INFO - Started process (PID=459751) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:26:17,133] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:26:17,143] {logging_mixin.py:104} INFO - [2021-05-08 01:26:17,143] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:26:19,569] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:26:19,866] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:26:19,870] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:26:19,884] {logging_mixin.py:104} INFO - [2021-05-08 01:26:19,884] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:26:19,924] {logging_mixin.py:104} INFO - [2021-05-08 01:26:19,923] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:26:20,077] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 2.969 seconds
+[2021-05-08 01:27:11,487] {scheduler_job.py:182} INFO - Started process (PID=460665) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:27:11,488] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:27:11,489] {logging_mixin.py:104} INFO - [2021-05-08 01:27:11,489] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:27:12,773] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:27:12,967] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:27:12,972] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:27:12,988] {logging_mixin.py:104} INFO - [2021-05-08 01:27:12,988] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:27:13,033] {logging_mixin.py:104} INFO - [2021-05-08 01:27:13,033] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:27:13,180] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.742 seconds
+[2021-05-08 01:28:06,338] {scheduler_job.py:182} INFO - Started process (PID=461779) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:28:06,340] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:28:06,348] {logging_mixin.py:104} INFO - [2021-05-08 01:28:06,341] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:28:07,178] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:28:07,303] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:28:07,308] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:28:07,326] {logging_mixin.py:104} INFO - [2021-05-08 01:28:07,326] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:28:07,375] {logging_mixin.py:104} INFO - [2021-05-08 01:28:07,374] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:28:07,491] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.185 seconds
+[2021-05-08 01:29:11,440] {scheduler_job.py:182} INFO - Started process (PID=462666) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:29:11,447] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:29:11,456] {logging_mixin.py:104} INFO - [2021-05-08 01:29:11,456] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:29:13,978] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:29:14,314] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:29:14,323] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:29:14,339] {logging_mixin.py:104} INFO - [2021-05-08 01:29:14,339] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:29:14,387] {logging_mixin.py:104} INFO - [2021-05-08 01:29:14,387] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:29:14,894] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 3.508 seconds
+[2021-05-08 01:30:16,691] {scheduler_job.py:182} INFO - Started process (PID=463937) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:30:16,693] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:30:16,695] {logging_mixin.py:104} INFO - [2021-05-08 01:30:16,695] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:30:17,577] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:30:17,790] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:30:17,796] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:30:17,831] {logging_mixin.py:104} INFO - [2021-05-08 01:30:17,831] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:30:17,884] {logging_mixin.py:104} INFO - [2021-05-08 01:30:17,884] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:30:18,024] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.336 seconds
+[2021-05-08 01:31:07,946] {scheduler_job.py:182} INFO - Started process (PID=464692) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:07,949] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:31:07,950] {logging_mixin.py:104} INFO - [2021-05-08 01:31:07,950] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:08,683] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:31:08,809] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:31:08,813] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:08,825] {logging_mixin.py:104} INFO - [2021-05-08 01:31:08,824] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:31:08,853] {logging_mixin.py:104} INFO - [2021-05-08 01:31:08,852] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:31:08,971] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.028 seconds
+[2021-05-08 01:31:55,728] {scheduler_job.py:182} INFO - Started process (PID=465724) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:55,730] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:31:55,732] {logging_mixin.py:104} INFO - [2021-05-08 01:31:55,731] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:56,841] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:31:57,638] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:31:57,648] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:31:57,703] {logging_mixin.py:104} INFO - [2021-05-08 01:31:57,702] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:31:57,846] {logging_mixin.py:104} INFO - [2021-05-08 01:31:57,845] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:31:58,003] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 2.280 seconds
+[2021-05-08 01:32:55,725] {scheduler_job.py:182} INFO - Started process (PID=466591) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:32:55,727] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:32:55,727] {logging_mixin.py:104} INFO - [2021-05-08 01:32:55,727] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:32:56,302] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:32:56,439] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:32:56,443] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:32:56,456] {logging_mixin.py:104} INFO - [2021-05-08 01:32:56,455] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:32:56,496] {logging_mixin.py:104} INFO - [2021-05-08 01:32:56,495] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:32:56,601] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 0.879 seconds
+[2021-05-08 01:33:44,114] {scheduler_job.py:182} INFO - Started process (PID=467601) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:33:44,117] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:33:44,120] {logging_mixin.py:104} INFO - [2021-05-08 01:33:44,118] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:33:45,318] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:33:45,504] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:33:45,510] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:33:45,528] {logging_mixin.py:104} INFO - [2021-05-08 01:33:45,528] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:33:45,585] {logging_mixin.py:104} INFO - [2021-05-08 01:33:45,585] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:33:45,692] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.596 seconds
+[2021-05-08 01:34:29,590] {scheduler_job.py:182} INFO - Started process (PID=468231) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:34:29,592] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:34:29,593] {logging_mixin.py:104} INFO - [2021-05-08 01:34:29,593] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:34:30,654] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:34:30,890] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:34:30,895] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:34:30,913] {logging_mixin.py:104} INFO - [2021-05-08 01:34:30,912] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:34:30,949] {logging_mixin.py:104} INFO - [2021-05-08 01:34:30,949] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:34:31,041] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.454 seconds
+[2021-05-08 01:35:27,733] {scheduler_job.py:182} INFO - Started process (PID=469414) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:35:27,734] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:35:27,735] {logging_mixin.py:104} INFO - [2021-05-08 01:35:27,734] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:35:28,410] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:35:28,565] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:35:28,568] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:35:28,579] {logging_mixin.py:104} INFO - [2021-05-08 01:35:28,579] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:35:28,607] {logging_mixin.py:104} INFO - [2021-05-08 01:35:28,606] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:35:28,728] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.000 seconds
+[2021-05-08 01:36:18,535] {scheduler_job.py:182} INFO - Started process (PID=470142) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:36:18,537] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:36:18,538] {logging_mixin.py:104} INFO - [2021-05-08 01:36:18,538] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:36:19,276] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:36:19,511] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:36:19,526] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:36:19,552] {logging_mixin.py:104} INFO - [2021-05-08 01:36:19,552] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:36:19,628] {logging_mixin.py:104} INFO - [2021-05-08 01:36:19,628] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:36:19,784] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.254 seconds
+[2021-05-08 01:37:18,563] {scheduler_job.py:182} INFO - Started process (PID=471351) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:37:18,565] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:37:18,566] {logging_mixin.py:104} INFO - [2021-05-08 01:37:18,566] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:37:19,272] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:37:19,439] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:37:19,443] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:37:19,461] {logging_mixin.py:104} INFO - [2021-05-08 01:37:19,460] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:37:19,507] {logging_mixin.py:104} INFO - [2021-05-08 01:37:19,507] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:37:19,634] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 1.076 seconds
+[2021-05-08 01:38:04,037] {scheduler_job.py:182} INFO - Started process (PID=471984) to work on /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:38:04,039] {scheduler_job.py:629} INFO - Processing file /home/navneetsajwan/airflow/dags/first_dag.py for tasks to queue
+[2021-05-08 01:38:04,040] {logging_mixin.py:104} INFO - [2021-05-08 01:38:04,040] {dagbag.py:451} INFO - Filling up the DagBag from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:38:04,534] {logging_mixin.py:104} INFO - All Dag modules are ok ......
+[2021-05-08 01:38:04,643] {logging_mixin.py:104} WARNING - /home/navneetsajwan/airflow/etl/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-08 01:38:04,647] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /home/navneetsajwan/airflow/dags/first_dag.py
+[2021-05-08 01:38:04,658] {logging_mixin.py:104} INFO - [2021-05-08 01:38:04,658] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-08 01:38:04,692] {logging_mixin.py:104} INFO - [2021-05-08 01:38:04,691] {dag.py:2280} INFO - Setting next_dagrun for first_dag to 2021-05-06 00:00:00+00:00
+[2021-05-08 01:38:04,792] {scheduler_job.py:190} INFO - Processing /home/navneetsajwan/airflow/dags/first_dag.py took 0.759 seconds
