@@ -64,3 +64,4 @@ for index,row in df.iterrows():
 	 'userid':int(row['userid']),
 	 'totalcreditscore':int(row['totalcreditscore']),
 	 'creditamount':int(row['creditamount'])}])
+

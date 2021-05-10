@@ -11,21 +11,19 @@ fpath = f"{SINGER_DATA}properties.json"
 with open(fpath) as json_file:
     data = json.load(json_file)
 
+#initialize the schema
+schema = {"streams":[]}
 
+streams_list = data['streams']
 
-def detect_schema(filename,tap_stream_id):
-    df=open(filename)
-    
-    df = json.load(df)
-    
-    for table_data in df['streams']:
-        if table_data['tap_stream_id']==tap_stream_id:
-            table_name=table_data['table_name']
-            schema_table=table_data['schema']['properties']
-            schema_table =  {k.lower(): v for k, v in schema_table.items()}
-            schema_json={'properties':schema_table}
-            
-    json_object = json.dumps(schema_json, indent = 4) 
-    target_file=f"{SINGER_DATA}schemas/{table_name}.json"
-    with open(target_file, 'w') as f:
-        f.write(json_object)
+for stream in streams_list:
+    if stream["tap_stream_id"] == tap_stream_id:
+        print(stream["tap_stream_id"])
+        schema['streams'].append(stream)
+
+schema['streams'][0]['metadata'][0]['metadata']['selected']= True
+
+schema['streams'][0]['metadata'][0]['metadata']['replication-method']= "FULL_TABLE"
+
+with open(f"{SINGER_DATA}metaorigin_properties.json", "w") as outfile: 
+    json.dump(schema, outfile)
