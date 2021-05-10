@@ -19,6 +19,15 @@
             ]
         },
         "creditid": {
+            "inclusion": "automatic",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "creditamount": {
             "inclusion": "available",
             "minimum": -2147483648,
             "maximum": 2147483647,

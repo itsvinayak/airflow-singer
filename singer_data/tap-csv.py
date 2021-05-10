@@ -53,9 +53,14 @@ schema={
 csv_file_list=os.listdir(directory)
 last_file=sorted(csv_file_list)[-1]
 df=pd.read_csv(os.path.join(directory,last_file))
-
+# print(df)
 singer.write_schema('user_acc', data, 'creditid')
+# for index,row in df.iterrows():
+#     singer.write_records('user_acc', [{'creditid':int(row['creditid']),'userid':int(row['userid']),'totalcreditscore':int(row['totalcreditscore'])}])
+
 for index,row in df.iterrows():
-    # print(row['CreditId'],row['UserId'],row['TotalCreditScore'])
-    # singer.write_records('user_acc', [{'creditid':int(row['CreditId']),'userid':int(row['UserId']),'totalcreditscore':int(row['TotalCreditScore'])}])
-    singer.write_records('user_acc', [{'creditid':int(row['creditid']),'userid':int(row['userid']),'totalcreditscore':int(row['totalcreditscore'])}])
+    singer.write_records('user_acc',
+	 [{'creditid':int(row['creditid']),
+	 'userid':int(row['userid']),
+	 'totalcreditscore':int(row['totalcreditscore']),
+	 'creditamount':int(row['creditamount'])}])

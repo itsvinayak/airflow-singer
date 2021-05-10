@@ -4252,15 +4252,6 @@
             ]
           },
           "creditid": {
-            "inclusion": "automatic",
-            "minimum": -2147483648,
-            "maximum": 2147483647,
-            "type": [
-              "null",
-              "integer"
-            ]
-          },
-          "creditamount": {
             "inclusion": "available",
             "minimum": -2147483648,
             "maximum": 2147483647,
@@ -4279,11 +4270,9 @@
           "metadata": {
             "selected-by-default": false,
             "database-name": "metaorigin",
-            "row-count": 9,
+            "row-count": 7,
             "is-view": false,
-            "table-key-properties": [
-              "creditid"
-            ]
+            "table-key-properties": []
           }
         },
         {
@@ -4310,16 +4299,6 @@
           "breadcrumb": [
             "properties",
             "creditid"
-          ],
-          "metadata": {
-            "selected-by-default": true,
-            "sql-datatype": "int"
-          }
-        },
-        {
-          "breadcrumb": [
-            "properties",
-            "creditamount"
           ],
           "metadata": {
             "selected-by-default": true,
