@@ -10,14 +10,6 @@ SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
 directory=f"{SINGER_DATA}Data-"+current_date
 # directory="/home/navneetsajwan/airflow/singer_data/temp"
 
-# importing the module
-import json
-  
-# Opening JSON file
-with open('/home/navneetsajwan/airflow/singer_data/schemas/usercreditaccount.json') as json_file:
-    data = json.load(json_file)
-
-
 schema={
    	 "properties": {
    		 "creditid": {
@@ -54,7 +46,7 @@ csv_file_list=os.listdir(directory)
 last_file=sorted(csv_file_list)[-1]
 df=pd.read_csv(os.path.join(directory,last_file))
 
-singer.write_schema('user_acc', data, 'creditid')
+singer.write_schema('user_acc', schema, 'creditid')
 for index,row in df.iterrows():
     # print(row['CreditId'],row['UserId'],row['TotalCreditScore'])
     # singer.write_records('user_acc', [{'creditid':int(row['CreditId']),'userid':int(row['UserId']),'totalcreditscore':int(row['TotalCreditScore'])}])
