@@ -78,6 +78,14 @@ def push_2_target():
     os.system(bash_cmd)
     print('push_test')
 
+
+t0= BashOperator(
+    task_id='generate_properties',
+    bash_command='python /home/navneetsajwan/airflow/old_dags/generate_properties.py',
+    dag=dag,
+)
+
+
 t1= PythonOperator(
     task_id='tap_mysql_target_csv',
     python_callable=tap_mysql_target_csv,
@@ -108,5 +116,5 @@ t5= PythonOperator(
 )
 
 
-t1>>t2>>t3>>t4>>t5
+t0>>t1>>t2>>t3>>t4>>t5
 

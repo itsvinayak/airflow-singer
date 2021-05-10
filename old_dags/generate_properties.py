@@ -1,12 +1,16 @@
 import os
 import json
-#generate default properties
+
 SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
+tap_stream_id="metaorigin-usercreditaccount"
+
+#generate default properties
 cmd = F"~/.virtualenvs/tap-mysql/bin/tap-mysql -c {SINGER_DATA}mysql_config.json --discover > {SINGER_DATA}properties.json"
 os.system(cmd)
 
 
 fpath = f"{SINGER_DATA}properties.json"
+
 # Opening JSON file
 with open(fpath) as json_file:
     data = json.load(json_file)
