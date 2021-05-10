@@ -43,27 +43,10 @@ default_args = {
 schedule_interval = "@daily"
 scriptpath = './singer_data/'
 dag = DAG(
-    'dag_5', 
+    'dag_6', 
     default_args=default_args, 
     schedule_interval=schedule_interval
     )
-
-
-def tap_mysql_target_csv():
-    bash_cmd=f"~/.virtualenvs/tap-mysql/bin/tap-mysql -c {SINGER_DATA}mysql_config.json --properties {SINGER_DATA}metaorigin_properties.json | ~/.virtualenvs/target-csv/bin/target-csv"
-    print(os.getcwd())
-    return os.system(bash_cmd)
-
-
-def today_dir():
-    print("create directory")
-    if not os.path.exists(directory):
-        os.makedirs(directory)
-
-
-def move_files():
-	Transfer_data = glob.glob(os.path.join("*.csv"))
-	[shutil.move(files,directory+'/'+files)for files in Transfer_data]
 
 def detect_schemas():
 	schema_folder=f"{SINGER_DATA}schemas"
@@ -78,23 +61,7 @@ def push_2_target():
     os.system(bash_cmd)
     print('push_test')
 
-t1= PythonOperator(
-    task_id='tap_mysql_target_csv',
-    python_callable=tap_mysql_target_csv,
-    dag=dag,
-)
 
-t2= PythonOperator(
-    task_id='today_dir',
-    python_callable=today_dir,
-    dag=dag,
-)
-
-t3= PythonOperator(
-    task_id='move_files',
-    python_callable=move_files,
-    dag=dag,
-)
 t4= PythonOperator(
     task_id='detect_schemas',
     python_callable=detect_schemas,
@@ -108,5 +75,4 @@ t5= PythonOperator(
 )
 
 
-t1>>t2>>t3>>t4>>t5
-
+t4>>t5

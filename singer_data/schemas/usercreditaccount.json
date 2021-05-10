@@ -1,14 +1,5 @@
 {
     "properties": {
-        "creditid": {
-            "inclusion": "automatic",
-            "minimum": -2147483648,
-            "maximum": 2147483647,
-            "type": [
-                "null",
-                "integer"
-            ]
-        },
         "userid": {
             "inclusion": "available",
             "minimum": -2147483648,
@@ -19,6 +10,15 @@
             ]
         },
         "totalcreditscore": {
+            "inclusion": "available",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "creditid": {
             "inclusion": "available",
             "minimum": -2147483648,
             "maximum": 2147483647,

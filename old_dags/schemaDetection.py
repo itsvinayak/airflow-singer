@@ -10,9 +10,6 @@ def detect_schema(filename,tap_stream_id):
     
     df = json.load(df)
     
-    #add those column that we want to detect
-    #tap_stream_id='cloutcubetest-UserCreditAccount'
-    
     for table_data in df['streams']:
         if table_data['tap_stream_id']==tap_stream_id:
             table_name=table_data['table_name']
