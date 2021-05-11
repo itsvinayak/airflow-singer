@@ -223,3 +223,6 @@ pip-wheel-metadata
 #folders
 /etl
 /logs
+/singer_data/tap-mysql
+/singer_data/target-postgres
+/singer_data/target-csv
