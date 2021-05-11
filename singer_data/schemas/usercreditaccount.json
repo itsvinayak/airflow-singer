@@ -1,15 +1,6 @@
 {
     "properties": {
-        "userid": {
-            "inclusion": "available",
-            "minimum": -2147483648,
-            "maximum": 2147483647,
-            "type": [
-                "null",
-                "integer"
-            ]
-        },
-        "totalcreditscore": {
+        "creditamount": {
             "inclusion": "available",
             "minimum": -2147483648,
             "maximum": 2147483647,
@@ -27,7 +18,24 @@
                 "integer"
             ]
         },
-        "creditamount": {
+        "name": {
+            "inclusion": "available",
+            "maxLength": 255,
+            "type": [
+                "null",
+                "string"
+            ]
+        },
+        "totalcreditscore": {
+            "inclusion": "available",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "userid": {
             "inclusion": "available",
             "minimum": -2147483648,
             "maximum": 2147483647,

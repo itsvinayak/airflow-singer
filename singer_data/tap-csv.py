@@ -54,14 +54,32 @@ csv_file_list=os.listdir(directory)
 last_file=sorted(csv_file_list)[-1]
 df=pd.read_csv(os.path.join(directory,last_file))
 # print(df)
-singer.write_schema('user_acc', data, 'creditid')
+# singer.write_schema('user_acc', data, 'creditid')
 # for index,row in df.iterrows():
 #     singer.write_records('user_acc', [{'creditid':int(row['creditid']),'userid':int(row['userid']),'totalcreditscore':int(row['totalcreditscore'])}])
 
-for index,row in df.iterrows():
-    singer.write_records('user_acc',
-	 [{'creditid':int(row['creditid']),
-	 'userid':int(row['userid']),
-	 'totalcreditscore':int(row['totalcreditscore']),
-	 'creditamount':int(row['creditamount'])}])
+## to find properties key
+key = ""
+for i in list(data['properties'].keys()):
+    if data['properties'][i]['inclusion'] == 'automatic':
+        key = i
+        break
+
+singer.write_schema('user_acc', data, key)
+'user_acc'
+
+## to feed data
+for index, row in df.iterrows():
+    singer.write_record(
+        stream_name='user_acc',
+            record=dict(row) 
+    )
+
+
+# for index,row in df.iterrows():
+#     singer.write_records('user_acc',
+# 	 [{'creditid':int(row['creditid']),
+# 	 'userid':int(row['userid']),
+# 	 'totalcreditscore':int(row['totalcreditscore']),
+# 	 'creditamount':int(row['creditamount'])}])
 
