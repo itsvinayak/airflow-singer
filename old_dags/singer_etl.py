@@ -17,7 +17,7 @@ from airflow.operators.python_operator import PythonOperator
 
 #lets import function and run using python operator
 import sys
-sys.path.insert(1, '/home/navneetsajwan/airflow/singer_data')
+sys.path.insert(1, '/root/airflow/singer_data')
 
 #==================================first etl =================================
 # design a buisness logic

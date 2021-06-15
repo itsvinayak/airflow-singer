@@ -6,9 +6,9 @@ from datetime import date, timedelta
 import os
 current_date = date.today().isoformat()  
 today = date.today()
-SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
+SINGER_DATA = '/root/airflow/singer_data/'
 directory=f"{SINGER_DATA}Data-"+current_date
-# directory="/home/navneetsajwan/airflow/singer_data/temp"
+# directory="/root/airflow/singer_data/temp"
 
 schema={
    	 "properties": {

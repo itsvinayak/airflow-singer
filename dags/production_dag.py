@@ -16,13 +16,13 @@ from airflow.operators.python_operator import PythonOperator
 
 import sys
 import os
-sys.path.insert(0, '/home/navneetsajwan/airflow/old_dags')
+sys.path.insert(0, '/root/airflow/old_dags')
 
 from schemaDetection import detect_schema
 
 
 
-SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
+SINGER_DATA = '/root/airflow/singer_data/'
 current_date = date.today().isoformat() 
 
 directory=f"{SINGER_DATA}Data-"+current_date
@@ -81,7 +81,7 @@ def push_2_target():
 
 t0= BashOperator(
     task_id='generate_properties',
-    bash_command='python /home/navneetsajwan/airflow/old_dags/generate_properties.py',
+    bash_command='python /root/airflow/old_dags/generate_properties.py',
     dag=dag,
 )
 

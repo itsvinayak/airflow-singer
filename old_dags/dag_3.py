@@ -20,7 +20,7 @@ from airflow.operators.python_operator import PythonOperator
 
 # sys.path.insert(1, '/media/navneetsajwan/DAC4BFAEC4BF8AF15/Learn-Apache-Airflow-in-easy-way--main/project/singer_data/')
 import sys
-sys.path.insert(1, '/home/navneetsajwan/airflow/singer_data')
+sys.path.insert(1, '/root/airflow/singer_data')
 #==================================first etl =================================
 # design a buisness logic
 #=============================================================================

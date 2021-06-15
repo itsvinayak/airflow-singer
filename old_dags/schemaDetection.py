@@ -3,7 +3,7 @@ from datetime import date, timedelta
 import  pandas as pd
 from airflow.models import Variable
 # SINGER_DATA = Variable.get("SINGER_DATA")
-SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
+SINGER_DATA = '/root/airflow/singer_data/'
 #store current_fileName into text file
 def detect_schema(filename,tap_stream_id):
     df=open(filename)

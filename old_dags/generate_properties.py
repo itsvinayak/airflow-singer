@@ -1,7 +1,7 @@
 import os
 import json
 
-SINGER_DATA = '/home/navneetsajwan/airflow/singer_data/'
+SINGER_DATA = '/root/airflow/singer_data/'
 tap_stream_id="metaorigin-usercreditaccount"
 
 #generate default properties
